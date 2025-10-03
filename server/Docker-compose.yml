@@ -1,0 +1,17 @@
+version: "3.8"
+
+services:
+  api:
+    container_name: foo-api
+    command: poetry run uvicorn app.main:app --host 0.0.0.0 --reload
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+
+    ports:
+      - "8081:8081"
+    environment: #переменные среды, например URL для подключения к БД
+      - WATCHFILES_FORCE_POLLING=true
+    volumes: #Монтируем локальную папку в контейнер, чтобы при разработке изменения были видны сразу
+      - ./app:/app/app
+    restart: on-failure
