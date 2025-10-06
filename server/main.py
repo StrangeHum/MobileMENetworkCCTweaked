@@ -3,6 +3,8 @@ from fastapi import FastAPI, Request
 from pydantic import BaseModel
 from typing import List
 
+import pickle
+
 
 class Item(BaseModel):
     id: str
@@ -24,11 +26,33 @@ class Storage:
 class Payload(BaseModel):
     items: List[Item]
 
+    def ToJSON(self):
+
+        return [
+            {"id": item.id, "count": item.count, "craftable": item.craftable}
+            for item in self.items
+        ]
+
 
 def ReadJSONData():
-    with open("items/testData.json", "r") as f:
+    with open("items/testSaveJSONData.json", "r") as f:
         data = json.load(f)
     return data
+
+
+# poetry run uvicorn main:app --host 0.0.0.0 --port 8081 --reload
+
+
+def WriteClassJSONData(data):
+    with open("items/testSaveJSONData.json", "w") as file:
+        json.dump(data, file)
+    return {"status": "ok"}
+
+
+def SaveJSONData(data):
+    with open("items/testSaveData.json", "wb") as file:
+        pickle.dump(data, file)
+    return {"status": "ok"}
 
 
 app = FastAPI()
@@ -40,7 +64,8 @@ storage.set_items(ReadJSONData())
 
 @app.post("/init")
 async def init(payload: Payload):
-
+    print(payload.ToJSON())
+    WriteClassJSONData(payload.ToJSON())
     return {"status": "ok"}
 
 
