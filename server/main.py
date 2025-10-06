@@ -10,6 +10,7 @@ class Item(BaseModel):
     id: str
     count: int
     craftable: bool = False
+    name: str
 
 
 class Storage:
@@ -29,7 +30,12 @@ class Payload(BaseModel):
     def ToJSON(self):
 
         return [
-            {"id": item.id, "count": item.count, "craftable": item.craftable}
+            {
+                "id": item.id,
+                "count": item.count,
+                "craftable": item.craftable,
+                "name": item.name,
+            }
             for item in self.items
         ]
 

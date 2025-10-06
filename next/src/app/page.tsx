@@ -1,23 +1,28 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useRef, useState } from "react";
 import styles from "./page.module.css";
+import SearchBarComponent from "./storage/searchBar";
+import StorageComponent from "./storage/storageComponent";
 import { useUpdateStoreage } from "./storage/storageSystem";
+import { Store } from "./storage/types";
 
 export default function Home() {
   const storage = useUpdateStoreage();
+  const [filteredStorage, setFilteredStorage] = useState<Store>();
+
+  if (storage === undefined) {
+    return <div>loading</div>;
+  }
 
   return (
     <div className={styles.page}>
-      <h1>Инвентарь</h1>
-      <ul>
-        {storage.map((item) => (
-          <li key={item.id}>
-            <strong>{item.id}</strong> — {item.count} шт.{" "}
-            {item.craftable ? "(создаётся)" : ""}
-          </li>
-        ))}
-      </ul>
+      <SearchBarComponent
+        storage={storage}
+        setFilteredStorage={setFilteredStorage}
+      />
+      <StorageComponent storage={filteredStorage ?? storage} />
+      {filteredStorage ? "пустой" : "не пустой"}
     </div>
   );
 }

@@ -1,14 +1,7 @@
 import { get } from "http";
 import { useEffect, useState } from "react";
-type item = {
-  id: string;
-  count: number;
-  craftable: boolean;
-};
-
-const apis = {
-  update: "http://192.168.0.105:8081/update",
-};
+import { Store } from "./types";
+import { apis } from "../apis";
 
 export const updateStorage = (callback: any) => {
   fetch(apis.update, {
@@ -26,7 +19,7 @@ export const updateStorage = (callback: any) => {
 };
 
 export const useUpdateStoreage = () => {
-  const [items, setItems] = useState<item[]>([]);
+  const [items, setItems] = useState<Store>();
 
   useEffect(() => {
     updateStorage(setItems);
