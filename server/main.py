@@ -1,5 +1,6 @@
 import json
 from fastapi import FastAPI, Request
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import List
 
@@ -27,17 +28,13 @@ class Storage:
 class Payload(BaseModel):
     items: List[Item]
 
-    def ToJSON(self):
+    def to_json(self) -> list[dict]:
+        """Возвращает Python-объект, готовый к сериализации в JSON."""
+        return [item.model_dump() for item in self.items]
 
-        return [
-            {
-                "id": item.id,
-                "count": item.count,
-                "craftable": item.craftable,
-                "name": item.name,
-            }
-            for item in self.items
-        ]
+    def to_json_str(self) -> str:
+        """Возвращает готовую JSON-строку."""
+        return self.model_dump_json()
 
 
 def ReadJSONData():

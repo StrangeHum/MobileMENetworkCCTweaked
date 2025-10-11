@@ -4,7 +4,7 @@ import { useRef, useState } from "react";
 import styles from "./page.module.css";
 import SearchBarComponent from "./storage/searchBar";
 import StorageComponent from "./storage/storageComponent";
-import { useUpdateStoreage } from "./storage/storageSystem";
+import { useUpdateStoreage } from "./storage/useStorageSystem";
 import { Store } from "./storage/types";
 
 export default function Home() {
