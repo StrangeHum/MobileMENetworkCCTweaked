@@ -1,6 +1,6 @@
 export type Item = {
   id: string;
-  name: string;
+  displayName: string;
   count: number;
   craftable: boolean;
 };

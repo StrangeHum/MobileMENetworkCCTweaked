@@ -22,7 +22,7 @@ export default function Home() {
         setFilteredStorage={setFilteredStorage}
       />
       <StorageComponent storage={filteredStorage ?? storage} />
-      {filteredStorage ? "пустой" : "не пустой"}
+      {filteredStorage ? "filteredStorage пустой" : "filteredStorage не пустой"}
     </div>
   );
 }

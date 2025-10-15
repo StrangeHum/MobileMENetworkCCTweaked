@@ -26,7 +26,7 @@ export default function SearchBarComponent({
 
   useEffect(() => {
     const regex = new RegExp(escapeRegExp(searchText), "i");
-    const _store = storage.filter((item) => regex.test(item.name));
+    const _store = storage.filter((item) => regex.test(item.displayName));
 
     // if (_store.length == 0) {
     //   return;

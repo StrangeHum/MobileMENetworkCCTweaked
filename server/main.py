@@ -6,12 +6,14 @@ from typing import List
 
 import pickle
 
+# poetry run uvicorn main:app --host 0.0.0.0 --port 8081 --reload
+
 
 class Item(BaseModel):
     id: str
     count: int
     craftable: bool = False
-    name: str
+    displayName: str
 
 
 class Storage:
@@ -23,6 +25,10 @@ class Storage:
 
     def get_items(self) -> List[Item]:
         return self.items
+
+    def to_json(self) -> list[dict]:
+        """Возвращает Python-объект, готовый к сериализации в JSON."""
+        return [item.model_dump() for item in self.items]
 
 
 class Payload(BaseModel):
@@ -37,8 +43,8 @@ class Payload(BaseModel):
         return self.model_dump_json()
 
 
-def ReadJSONData():
-    with open("items/testSaveJSONData.json", "r") as f:
+def ReadSavedData():
+    with open("items/testData.json", "r") as f:
         data = json.load(f)
     return data
 
@@ -46,15 +52,9 @@ def ReadJSONData():
 # poetry run uvicorn main:app --host 0.0.0.0 --port 8081 --reload
 
 
-def WriteClassJSONData(data):
-    with open("items/testSaveJSONData.json", "w") as file:
+def SaveData(data):
+    with open("items/testData.json", "w") as file:
         json.dump(data, file)
-    return {"status": "ok"}
-
-
-def SaveJSONData(data):
-    with open("items/testSaveData.json", "wb") as file:
-        pickle.dump(data, file)
     return {"status": "ok"}
 
 
@@ -62,13 +62,13 @@ app = FastAPI()
 secret = "somePassword"  # TODO: Защита
 
 storage = Storage()
-storage.set_items(ReadJSONData())
+storage.set_items(ReadSavedData())
 
 
 @app.post("/init")
 async def init(payload: Payload):
     print(payload.ToJSON())
-    WriteClassJSONData(payload.ToJSON())
+    SaveData(payload.ToJSON())
     return {"status": "ok"}
 
 
@@ -76,6 +76,7 @@ async def init(payload: Payload):
 async def upload(payload: Payload):
     print(f"Получено {len(payload.items)} предметов")
     storage.set_items(payload.items)
+    SaveData(storage.to_json())
     return {"status": "ok"}
 
 
@@ -87,4 +88,5 @@ async def craftItem(itemID):
 
 @app.get("/update")
 async def update():
+
     return storage.get_items()

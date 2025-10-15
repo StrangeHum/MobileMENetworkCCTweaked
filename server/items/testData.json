@@ -1,12 +1,4194 @@
 [
   {
-    "id": "",
-    "count": 0,
-    "craftable": false
+    "id": "tfg:vitrified_pearl",
+    "count": 1,
+    "craftable": true,
+    "displayName": "item.tfg.vitrified_pearl"
   },
   {
-    "id": "",
-    "count": 0,
-    "craftable": false
+    "id": "gtceu:hematite_dust",
+    "count": 960,
+    "craftable": false,
+    "displayName": "Hematite Dust"
+  },
+  {
+    "id": "tfc:mortar",
+    "count": 50,
+    "craftable": false,
+    "displayName": "Mortar"
+  },
+  {
+    "id": "gtceu:magnalium_dust",
+    "count": 90,
+    "craftable": false,
+    "displayName": "Magnalium Dust"
+  },
+  {
+    "id": "gtceu:tiny_ash_dust",
+    "count": 4,
+    "craftable": false,
+    "displayName": "Tiny Pile of Ashes"
+  },
+  {
+    "id": "gtceu:hv_rotor_holder",
+    "count": 2,
+    "craftable": false,
+    "displayName": "\u00a76HV Rotor Holder"
+  },
+  { "id": "tfc:jute", "count": 15, "craftable": false, "displayName": "Jute" },
+  {
+    "id": "gtceu:ultimet_dust",
+    "count": 4,
+    "craftable": true,
+    "displayName": "Ultimet Dust"
+  },
+  {
+    "id": "gtceu:gallium_foil",
+    "count": 246,
+    "craftable": false,
+    "displayName": "Gallium Foil"
+  },
+  {
+    "id": "tfc:compost",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Compost"
+  },
+  {
+    "id": "gtceu:bronze_plate",
+    "count": 12,
+    "craftable": false,
+    "displayName": "Bronze Plate"
+  },
+  {
+    "id": "gtceu:annealed_copper_bolt",
+    "count": 192,
+    "craftable": false,
+    "displayName": "Annealed Copper Bolt"
+  },
+  {
+    "id": "gtceu:potash_dust",
+    "count": 194,
+    "craftable": false,
+    "displayName": "Potash Dust"
+  },
+  {
+    "id": "create:packager",
+    "count": 19,
+    "craftable": false,
+    "displayName": "Packager"
+  },
+  {
+    "id": "gtceu:tiny_vanadium_magnetite_dust",
+    "count": 3,
+    "craftable": false,
+    "displayName": "Tiny Pile of Vanadium Magnetite Dust"
+  },
+  {
+    "id": "create:smart_chute",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Smart Chute"
+  },
+  {
+    "id": "gtceu:bronze_rotor",
+    "count": 5,
+    "craftable": false,
+    "displayName": "Bronze Rotor"
+  },
+  {
+    "id": "gtceu:silicon_dust",
+    "count": 21068,
+    "craftable": false,
+    "displayName": "Silicon Dust"
+  },
+  {
+    "id": "gtceu:diode",
+    "count": 9,
+    "craftable": false,
+    "displayName": "Diode"
+  },
+  {
+    "id": "gtceu:small_titanium_gear",
+    "count": 2,
+    "craftable": true,
+    "displayName": "Small Titanium Gear"
+  },
+  {
+    "id": "gtceu:small_gold_spring",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Small Gold Spring"
+  },
+  {
+    "id": "gtceu:vanadium_dust",
+    "count": 61,
+    "craftable": false,
+    "displayName": "Vanadium Dust"
+  },
+  {
+    "id": "gtceu:lv_electric_motor",
+    "count": 2,
+    "craftable": false,
+    "displayName": "LV Electric Motor"
+  },
+  {
+    "id": "gtceu:small_glass_dust",
+    "count": 4,
+    "craftable": false,
+    "displayName": "Small Pile of Glass Dust"
+  },
+  {
+    "id": "gtceu:gallium_arsenide_ingot",
+    "count": 3,
+    "craftable": false,
+    "displayName": "Gallium Arsenide Ingot"
+  },
+  {
+    "id": "gtceu:cupronickel_coil_block",
+    "count": 25,
+    "craftable": false,
+    "displayName": "Cupronickel Coil Block"
+  },
+  {
+    "id": "gtceu:tungsten_dust",
+    "count": 56,
+    "craftable": true,
+    "displayName": "Tungsten Dust"
+  },
+  {
+    "id": "gtceu:nichrome_single_wire",
+    "count": 2,
+    "craftable": false,
+    "displayName": "1x Nichrome Wire"
+  },
+  {
+    "id": "gtceu:cobalt_dust",
+    "count": 3770,
+    "craftable": false,
+    "displayName": "Cobalt Dust"
+  },
+  {
+    "id": "gtceu:polyethylene_normal_fluid_pipe",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Normal Polyethylene Fluid Pipe"
+  },
+  {
+    "id": "gtceu:cupronickel_quadruple_wire",
+    "count": 10,
+    "craftable": false,
+    "displayName": "4x Cupronickel Wire"
+  },
+  {
+    "id": "gtceu:coal_dust",
+    "count": 2847,
+    "craftable": false,
+    "displayName": "Coal Dust"
+  },
+  {
+    "id": "gtceu:aluminium_rod",
+    "count": 1,
+    "craftable": true,
+    "displayName": "Aluminium Rod"
+  },
+  {
+    "id": "gtceu:small_grossular_dust",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Small Pile of Grossular Dust"
+  },
+  {
+    "id": "create:mechanical_arm",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Mechanical Arm"
+  },
+  {
+    "id": "gtceu:silicone_rubber_foil",
+    "count": 55,
+    "craftable": false,
+    "displayName": "Thin Silicone Rubber Sheet"
+  },
+  {
+    "id": "gtceu:flawless_lazurite_gem",
+    "count": 572,
+    "craftable": false,
+    "displayName": "Flawless Lazurite"
+  },
+  {
+    "id": "gtceu:cupronickel_dust",
+    "count": 490,
+    "craftable": false,
+    "displayName": "Cupronickel Dust"
+  },
+  {
+    "id": "gtceu:polyphenylene_sulfide_ingot",
+    "count": 3,
+    "craftable": false,
+    "displayName": "Polyphenylene Sulfide Ingot"
+  },
+  {
+    "id": "gtceu:smd_resistor",
+    "count": 7,
+    "craftable": true,
+    "displayName": "SMD Resistor"
+  },
+  {
+    "id": "gtceu:ulv_machine_hull",
+    "count": 1,
+    "craftable": false,
+    "displayName": "\u00a78ULV \u00a7fMachine Hull"
+  },
+  {
+    "id": "tfc:silk_cloth",
+    "count": 4,
+    "craftable": false,
+    "displayName": "Silk Cloth"
+  },
+  {
+    "id": "gtceu:titanium_firebox_casing",
+    "count": 1,
+    "craftable": true,
+    "displayName": "Titanium Firebox Casing"
+  },
+  {
+    "id": "gtceu:inert_metal_mixture_dust",
+    "count": 658,
+    "craftable": false,
+    "displayName": "Inert Metal Mixture"
+  },
+  {
+    "id": "ae2:import_bus",
+    "count": 3,
+    "craftable": false,
+    "displayName": "ME Import Bus"
+  },
+  {
+    "id": "gtceu:aluminium_crate",
+    "count": 34,
+    "craftable": false,
+    "displayName": "Aluminium Crate"
+  },
+  {
+    "id": "gtceu:steel_frame",
+    "count": 3,
+    "craftable": true,
+    "displayName": "Steel Frame"
+  },
+  {
+    "id": "tfc:plant/grape_hyacinth",
+    "count": 4,
+    "craftable": false,
+    "displayName": "Grape Hyacinth"
+  },
+  {
+    "id": "gtceu:lithium_dust",
+    "count": 2125,
+    "craftable": false,
+    "displayName": "Lithium Dust"
+  },
+  {
+    "id": "gtceu:orange_lamp",
+    "count": 9,
+    "craftable": false,
+    "displayName": "Orange Lamp"
+  },
+  {
+    "id": "ae2:formation_core",
+    "count": 210,
+    "craftable": false,
+    "displayName": "Formation Core"
+  },
+  {
+    "id": "minecraft:feather",
+    "count": 14,
+    "craftable": false,
+    "displayName": "Feather"
+  },
+  {
+    "id": "gtceu:iron_dust",
+    "count": 582,
+    "craftable": false,
+    "displayName": "Iron Dust"
+  },
+  {
+    "id": "create:brass_ingot",
+    "count": 11,
+    "craftable": false,
+    "displayName": "Brass Ingot"
+  },
+  {
+    "id": "gtceu:hv_energy_output_hatch",
+    "count": 4,
+    "craftable": false,
+    "displayName": "\u00a76HV Dynamo Hatch"
+  },
+  {
+    "id": "gtceu:ilmenite_slag_dust",
+    "count": 1707,
+    "craftable": false,
+    "displayName": "Ilmenite Slag Dust"
+  },
+  {
+    "id": "tfc:plant/spanish_moss",
+    "count": 6,
+    "craftable": false,
+    "displayName": "Spanish Moss"
+  },
+  {
+    "id": "gtceu:ruby_lens",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Ruby Lens"
+  },
+  {
+    "id": "gtceu:olivine_gem",
+    "count": 4,
+    "craftable": false,
+    "displayName": "Olivine"
+  },
+  {
+    "id": "vintageimprovements:invar_sheet",
+    "count": 20,
+    "craftable": false,
+    "displayName": "Invar Sheet"
+  },
+  {
+    "id": "gtceu:bronze_rod",
+    "count": 28,
+    "craftable": false,
+    "displayName": "Bronze Rod"
+  },
+  {
+    "id": "gtceu:wrought_iron_dust",
+    "count": 18,
+    "craftable": false,
+    "displayName": "Wrought Iron Dust"
+  },
+  {
+    "id": "gtceu:tiny_bone_dust",
+    "count": 21,
+    "craftable": false,
+    "displayName": "Tiny Pile of Bone Meal"
+  },
+  {
+    "id": "gtceu:electrotine_dust",
+    "count": 5326,
+    "craftable": true,
+    "displayName": "Electrotine Dust"
+  },
+  {
+    "id": "gtceu:copper_frame",
+    "count": 4,
+    "craftable": false,
+    "displayName": "Copper Frame"
+  },
+  {
+    "id": "gtceu:small_pipe_extruder_mold",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Extruder Mold (Small Pipe)"
+  },
+  {
+    "id": "gtceu:silicone_rubber_ingot",
+    "count": 18,
+    "craftable": false,
+    "displayName": "Silicone Rubber Ingot"
+  },
+  {
+    "id": "gtceu:tiny_metal_mixture_dust",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Tiny Pile of Metal Mixture Dust"
+  },
+  {
+    "id": "gtceu:ulv_machine_casing",
+    "count": 4,
+    "craftable": false,
+    "displayName": "ULV Machine Casing"
+  },
+  {
+    "id": "gtceu:annealed_copper_ingot",
+    "count": 491,
+    "craftable": false,
+    "displayName": "Annealed Copper Ingot"
+  },
+  {
+    "id": "gtceu:carbon_fiber_plate",
+    "count": 8,
+    "craftable": false,
+    "displayName": "Carbon Fiber Plate"
+  },
+  {
+    "id": "gtceu:ev_robot_arm",
+    "count": 6,
+    "craftable": true,
+    "displayName": "EV Robot Arm"
+  },
+  {
+    "id": "gtceu:titanium_rod",
+    "count": 13,
+    "craftable": true,
+    "displayName": "Titanium Rod"
+  },
+  {
+    "id": "minecraft:iron_ingot",
+    "count": 4850,
+    "craftable": false,
+    "displayName": "Iron Ingot"
+  },
+  {
+    "id": "gtceu:phenolic_printed_circuit_board",
+    "count": 14,
+    "craftable": false,
+    "displayName": "Phenolic Printed Circuit Board"
+  },
+  {
+    "id": "gtceu:tantalum_dust",
+    "count": 87,
+    "craftable": false,
+    "displayName": "Tantalum Dust"
+  },
+  {
+    "id": "tfc:metal/bars/wrought_iron",
+    "count": 1,
+    "craftable": true,
+    "displayName": "Wrought Iron Bars"
+  },
+  {
+    "id": "minecraft:leather",
+    "count": 37,
+    "craftable": false,
+    "displayName": "Leather"
+  },
+  {
+    "id": "minecraft:magma_cream",
+    "count": 26,
+    "craftable": false,
+    "displayName": "Magma Cream"
+  },
+  {
+    "id": "gtceu:clean_machine_casing",
+    "count": 17,
+    "craftable": true,
+    "displayName": "Clean Stainless Steel Casing"
+  },
+  {
+    "id": "create_factory_logistics:fluid_mechanism",
+    "count": 35,
+    "craftable": false,
+    "displayName": "Fluid Mechanism"
+  },
+  {
+    "id": "gtceu:rose_quartz_dust",
+    "count": 868,
+    "craftable": false,
+    "displayName": "Rose Quartz Dust"
+  },
+  {
+    "id": "gtceu:aluminium_frame",
+    "count": 454,
+    "craftable": false,
+    "displayName": "Aluminium Frame"
+  },
+  {
+    "id": "gtceu:gold_single_cable",
+    "count": 2,
+    "craftable": true,
+    "displayName": "1x Gold Cable"
+  },
+  {
+    "id": "tfc_textile:caribou_fur",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Caribou Fur"
+  },
+  {
+    "id": "gtceu:titanium_small_fluid_pipe",
+    "count": 8,
+    "craftable": false,
+    "displayName": "Small Titanium Fluid Pipe"
+  },
+  {
+    "id": "gtceu:fine_gold_wire",
+    "count": 1039,
+    "craftable": true,
+    "displayName": "Fine Gold Wire"
+  },
+  {
+    "id": "gtceu:polyethylene_dust",
+    "count": 33,
+    "craftable": false,
+    "displayName": "Polyethylene Pulp"
+  },
+  {
+    "id": "gtceu:uraninite_dust",
+    "count": 247,
+    "craftable": false,
+    "displayName": "Uraninite Dust"
+  },
+  {
+    "id": "tfc:rock/raw/gabbro",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Raw Gabbro"
+  },
+  {
+    "id": "gtceu:black_studs",
+    "count": 682,
+    "craftable": true,
+    "displayName": "Black Studs"
+  },
+  {
+    "id": "gtceu:ferrite_mixture_dust",
+    "count": 60,
+    "craftable": false,
+    "displayName": "Ferrite Mixture Dust"
+  },
+  {
+    "id": "gtceu:wrought_iron_spring",
+    "count": 8,
+    "craftable": false,
+    "displayName": "Wrought Iron Spring"
+  },
+  {
+    "id": "gtceu:invar_rod",
+    "count": 44,
+    "craftable": false,
+    "displayName": "Invar Rod"
+  },
+  {
+    "id": "gtceu:sterling_silver_dust",
+    "count": 6,
+    "craftable": false,
+    "displayName": "Sterling Silver Dust"
+  },
+  {
+    "id": "gtceu:magnetic_neodymium_rod",
+    "count": 7,
+    "craftable": true,
+    "displayName": "Magnetic Neodymium Rod"
+  },
+  {
+    "id": "gtceu:nichrome_ingot",
+    "count": 133,
+    "craftable": false,
+    "displayName": "Nichrome Ingot"
+  },
+  {
+    "id": "gtceu:rose_quartz_lens",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Rose Quartz Lens"
+  },
+  {
+    "id": "gtceu:graphene_ingot",
+    "count": 17,
+    "craftable": false,
+    "displayName": "Graphene Ingot"
+  },
+  {
+    "id": "tfg:polycaprolactam_fabric",
+    "count": 1,
+    "craftable": false,
+    "displayName": "item.tfg.polycaprolactam_fabric"
+  },
+  {
+    "id": "tfc:sand/yellow",
+    "count": 3934,
+    "craftable": false,
+    "displayName": "Yellow Sand"
+  },
+  {
+    "id": "tfc:rock/smooth/phyllite",
+    "count": 27,
+    "craftable": false,
+    "displayName": "Smooth Phyllite"
+  },
+  {
+    "id": "gtceu:soldering_alloy_dust",
+    "count": 482,
+    "craftable": false,
+    "displayName": "Soldering Alloy Dust"
+  },
+  {
+    "id": "gtceu:enriched_naquadah_dust",
+    "count": 60,
+    "craftable": false,
+    "displayName": "Enriched Naquadah Dust"
+  },
+  {
+    "id": "gtceu:small_rock_salt_dust",
+    "count": 15,
+    "craftable": false,
+    "displayName": "Small Pile of Rock Salt"
+  },
+  {
+    "id": "gtceu:brown_glass_lens",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Glass Lens (Brown)"
+  },
+  {
+    "id": "tfc:brick/granite",
+    "count": 1488,
+    "craftable": false,
+    "displayName": "Granite Brick"
+  },
+  {
+    "id": "gtceu:flawless_spessartine_gem",
+    "count": 593,
+    "craftable": false,
+    "displayName": "Flawless Spessartine"
+  },
+  {
+    "id": "gtceu:gallium_dust",
+    "count": 1274,
+    "craftable": false,
+    "displayName": "Gallium Dust"
+  },
+  {
+    "id": "gtceu:copper_double_ingot",
+    "count": 8,
+    "craftable": false,
+    "displayName": "tagprefix.double_ingot"
+  },
+  {
+    "id": "gtceu:steel_turbine_casing",
+    "count": 3,
+    "craftable": false,
+    "displayName": "Magnalium Turbine Casing"
+  },
+  {
+    "id": "gtceu:calcium_dust",
+    "count": 13089,
+    "craftable": false,
+    "displayName": "Calcium Dust"
+  },
+  {
+    "id": "gtceu:gold_dust",
+    "count": 3872,
+    "craftable": false,
+    "displayName": "Gold Dust"
+  },
+  {
+    "id": "gtceu:lazurite_plate",
+    "count": 13,
+    "craftable": false,
+    "displayName": "Lazurite Plate"
+  },
+  {
+    "id": "gtceu:gallium_plate",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Gallium Plate"
+  },
+  {
+    "id": "gtceu:rubber_ring",
+    "count": 72,
+    "craftable": false,
+    "displayName": "Rubber Ring"
+  },
+  {
+    "id": "gtceu:flint_dust",
+    "count": 5018,
+    "craftable": false,
+    "displayName": "Flint Dust"
+  },
+  {
+    "id": "gtceu:oilsands_dust",
+    "count": 34783,
+    "craftable": false,
+    "displayName": "Oilsands Dust"
+  },
+  {
+    "id": "ae2:certus_quartz_crystal",
+    "count": 488,
+    "craftable": false,
+    "displayName": "Certus Quartz Crystal"
+  },
+  {
+    "id": "gtceu:cupronickel_small_item_pipe",
+    "count": 7,
+    "craftable": false,
+    "displayName": "Small Cupronickel Item Pipe"
+  },
+  {
+    "id": "minecraft:green_dye",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Green Dye"
+  },
+  {
+    "id": "gtceu:wrought_iron_bolt",
+    "count": 1,
+    "craftable": true,
+    "displayName": "Wrought Iron Bolt"
+  },
+  {
+    "id": "gtceu:glass_tube",
+    "count": 189,
+    "craftable": false,
+    "displayName": "Glass Tube"
+  },
+  {
+    "id": "gtceu:double_black_steel_plate",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Double Black Steel Plate"
+  },
+  {
+    "id": "gtceu:red_alloy_dust",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Red Alloy Dust"
+  },
+  {
+    "id": "gtceu:aluminium_bolt",
+    "count": 42,
+    "craftable": false,
+    "displayName": "Aluminium Bolt"
+  },
+  {
+    "id": "gtceu:polytetrafluoroethylene_ingot",
+    "count": 32,
+    "craftable": false,
+    "displayName": "Polytetrafluoroethylene Ingot"
+  },
+  {
+    "id": "gtceu:invar_ingot",
+    "count": 432,
+    "craftable": false,
+    "displayName": "Invar Ingot"
+  },
+  {
+    "id": "gtceu:small_stainless_steel_gear",
+    "count": 10,
+    "craftable": true,
+    "displayName": "Small Stainless Steel Gear"
+  },
+  {
+    "id": "gtceu:flawed_emerald_gem",
+    "count": 137,
+    "craftable": false,
+    "displayName": "Flawed Emerald"
+  },
+  {
+    "id": "gtceu:invar_frame",
+    "count": 7,
+    "craftable": true,
+    "displayName": "Invar Frame"
+  },
+  {
+    "id": "create:golden_sheet",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Golden Sheet"
+  },
+  {
+    "id": "minecraft:emerald",
+    "count": 333,
+    "craftable": false,
+    "displayName": "Emerald"
+  },
+  {
+    "id": "gtceu:silver_double_cable",
+    "count": 18,
+    "craftable": false,
+    "displayName": "2x Silver Cable"
+  },
+  {
+    "id": "tfc:plant/foxglove",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Foxglove"
+  },
+  {
+    "id": "gtceu:small_steel_gear",
+    "count": 17,
+    "craftable": false,
+    "displayName": "Small Steel Gear"
+  },
+  {
+    "id": "gtceu:ev_input_hatch",
+    "count": 1,
+    "craftable": true,
+    "displayName": "\u00a75EV Input Hatch"
+  },
+  {
+    "id": "greate:aluminium_cogwheel",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Aluminium Cogwheel"
+  },
+  {
+    "id": "gtceu:small_yellow_garnet_dust",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Small Pile of Yellow Garnet Dust"
+  },
+  {
+    "id": "gtceu:electrum_rod",
+    "count": 28,
+    "craftable": false,
+    "displayName": "Electrum Rod"
+  },
+  {
+    "id": "gtceu:phosphorus_wafer",
+    "count": 36,
+    "craftable": false,
+    "displayName": "Phosphorus-doped Wafer"
+  },
+  {
+    "id": "gtceu:zinc_dust",
+    "count": 3728,
+    "craftable": false,
+    "displayName": "Zinc Dust"
+  },
+  {
+    "id": "gtceu:small_steel_spring",
+    "count": 40,
+    "craftable": false,
+    "displayName": "Small Steel Spring"
+  },
+  {
+    "id": "ae2:item_cell_housing",
+    "count": 31,
+    "craftable": false,
+    "displayName": "ME Item Cell Housing"
+  },
+  {
+    "id": "create:super_glue",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Super Glue"
+  },
+  {
+    "id": "tfc:rock/bricks/dolomite",
+    "count": 410,
+    "craftable": false,
+    "displayName": "Dolomite Bricks"
+  },
+  {
+    "id": "gtceu:aluminium_normal_fluid_pipe",
+    "count": 70,
+    "craftable": false,
+    "displayName": "Normal Aluminium Fluid Pipe"
+  },
+  {
+    "id": "gtceu:realgar_dust",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Realgar Dust"
+  },
+  {
+    "id": "gtceu:flawless_lapis_gem",
+    "count": 428,
+    "craftable": false,
+    "displayName": "Flawless Lapis"
+  },
+  {
+    "id": "gtceu:plant_ball",
+    "count": 147,
+    "craftable": false,
+    "displayName": "Plant Ball"
+  },
+  {
+    "id": "minecraft:lead",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Lead"
+  },
+  {
+    "id": "minecraft:brick",
+    "count": 263,
+    "craftable": false,
+    "displayName": "Brick"
+  },
+  {
+    "id": "ad_astra:desh_plate",
+    "count": 11,
+    "craftable": false,
+    "displayName": "Desh Plate"
+  },
+  {
+    "id": "tfc:rock/bricks/chalk",
+    "count": 33,
+    "craftable": false,
+    "displayName": "Chalk Bricks"
+  },
+  {
+    "id": "tfc:kaolin_clay",
+    "count": 773,
+    "craftable": false,
+    "displayName": "Kaolin Clay"
+  },
+  {
+    "id": "gtceu:rubber_foil",
+    "count": 14,
+    "craftable": false,
+    "displayName": "Thin Rubber Sheet"
+  },
+  {
+    "id": "gtceu:bismuth_dust",
+    "count": 171,
+    "craftable": false,
+    "displayName": "Bismuth Dust"
+  },
+  {
+    "id": "gtceu:rutile_dust",
+    "count": 3094,
+    "craftable": false,
+    "displayName": "Rutile Dust"
+  },
+  {
+    "id": "gtceu:rocket_alloy_t1_ingot",
+    "count": 5,
+    "craftable": false,
+    "displayName": "material.gtceu.rocket_alloy_t1 Ingot"
+  },
+  {
+    "id": "ae2:damaged_budding_quartz",
+    "count": 11,
+    "craftable": false,
+    "displayName": "Damaged Budding Certus Quartz"
+  },
+  {
+    "id": "firmaciv:copper_bolt",
+    "count": 118,
+    "craftable": false,
+    "displayName": "Copper Bolt"
+  },
+  {
+    "id": "gtceu:block_casting_mold",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Casting Mold (Block)"
+  },
+  {
+    "id": "gtceu:hv_steam_turbine",
+    "count": 4,
+    "craftable": false,
+    "displayName": "\u00a76Advanced Steam Turbine Generator II\u00a7r"
+  },
+  {
+    "id": "gtceu:small_sodium_hydroxide_dust",
+    "count": 137668,
+    "craftable": false,
+    "displayName": "Small Pile of Sodium Hydroxide Dust"
+  },
+  {
+    "id": "gtceu:fine_aluminium_wire",
+    "count": 64,
+    "craftable": false,
+    "displayName": "Fine Aluminium Wire"
+  },
+  {
+    "id": "gtceu:polycaprolactam_ingot",
+    "count": 964,
+    "craftable": false,
+    "displayName": "Polycaprolactam Ingot"
+  },
+  {
+    "id": "gtceu:iron_rod",
+    "count": 66,
+    "craftable": false,
+    "displayName": "Iron Rod"
+  },
+  {
+    "id": "minecraft:diamond",
+    "count": 27,
+    "craftable": false,
+    "displayName": "Diamond"
+  },
+  {
+    "id": "minecraft:redstone",
+    "count": 4104,
+    "craftable": false,
+    "displayName": "Redstone Dust"
+  },
+  {
+    "id": "gtceu:ram_wafer",
+    "count": 56,
+    "craftable": false,
+    "displayName": "RAM Wafer"
+  },
+  {
+    "id": "gtceu:platinum_single_wire",
+    "count": 6,
+    "craftable": true,
+    "displayName": "1x Platinum Wire"
+  },
+  {
+    "id": "minecraft:obsidian",
+    "count": 739,
+    "craftable": false,
+    "displayName": "Obsidian"
+  },
+  {
+    "id": "gtceu:wrought_iron_ingot",
+    "count": 1027,
+    "craftable": false,
+    "displayName": "Wrought Iron Ingot"
+  },
+  {
+    "id": "minecraft:brown_mushroom_block",
+    "count": 10,
+    "craftable": false,
+    "displayName": "Brown Mushroom Block"
+  },
+  {
+    "id": "greate:aluminium_shaft",
+    "count": 347,
+    "craftable": false,
+    "displayName": "Aluminium Shaft"
+  },
+  {
+    "id": "gtceu:silver_ingot",
+    "count": 1615,
+    "craftable": false,
+    "displayName": "Silver Ingot"
+  },
+  {
+    "id": "firmalife:raw_honey",
+    "count": 37,
+    "craftable": false,
+    "displayName": "Raw Honey"
+  },
+  {
+    "id": "gtceu:wood_crate",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Wooden Crate"
+  },
+  {
+    "id": "gtceu:mv_machine_casing",
+    "count": 7,
+    "craftable": false,
+    "displayName": "MV Machine Casing"
+  },
+  {
+    "id": "gtceu:stable_machine_casing",
+    "count": 9,
+    "craftable": true,
+    "displayName": "Stable Titanium Machine Casing"
+  },
+  {
+    "id": "ae2:fluix_glass_cable",
+    "count": 91,
+    "craftable": true,
+    "displayName": "Fluix ME Glass Cable"
+  },
+  {
+    "id": "ad_astra:desh_ingot",
+    "count": 3,
+    "craftable": false,
+    "displayName": "Desh Ingot"
+  },
+  {
+    "id": "ae2:pattern_provider",
+    "count": 3,
+    "craftable": false,
+    "displayName": "ME Pattern Provider"
+  },
+  {
+    "id": "minecraft:ender_pearl",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Ender Pearl"
+  },
+  {
+    "id": "gtceu:battery_alloy_dust",
+    "count": 88,
+    "craftable": false,
+    "displayName": "Battery Alloy Dust"
+  },
+  {
+    "id": "gtceu:flawed_certus_quartz_gem",
+    "count": 816,
+    "craftable": false,
+    "displayName": "Flawed Certus Quartz"
+  },
+  {
+    "id": "gtceu:rose_gold_ingot",
+    "count": 14,
+    "craftable": false,
+    "displayName": "Rose Gold Ingot"
+  },
+  {
+    "id": "gtceu:copper_drill_head",
+    "count": 15,
+    "craftable": false,
+    "displayName": "Copper Drill Head"
+  },
+  {
+    "id": "gtceu:polyethylene_large_fluid_pipe",
+    "count": 2,
+    "craftable": true,
+    "displayName": "Large Polyethylene Fluid Pipe"
+  },
+  {
+    "id": "gtceu:ruby_dust",
+    "count": 1970,
+    "craftable": false,
+    "displayName": "Ruby Dust"
+  },
+  {
+    "id": "gtceu:exquisite_quartzite_gem",
+    "count": 204,
+    "craftable": false,
+    "displayName": "Exquisite Quartzite"
+  },
+  {
+    "id": "create:item_vault",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Item Vault"
+  },
+  {
+    "id": "gtceu:fine_copper_wire",
+    "count": 1175,
+    "craftable": false,
+    "displayName": "Fine Copper Wire"
+  },
+  {
+    "id": "gtceu:turbine_rotor",
+    "count": 1,
+    "craftable": true,
+    "displayName": "Ultimet Turbine Rotor"
+  },
+  {
+    "id": "gtceu:glass_lens",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Glass Lens"
+  },
+  {
+    "id": "minecraft:paper",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Paper"
+  },
+  {
+    "id": "gtceu:wood_plate",
+    "count": 690,
+    "craftable": false,
+    "displayName": "Wood Plank"
+  },
+  {
+    "id": "gtceu:aluminium_double_wire",
+    "count": 8,
+    "craftable": true,
+    "displayName": "2x Aluminium Wire"
+  },
+  {
+    "id": "gtceu:lithium_chloride_dust",
+    "count": 408,
+    "craftable": false,
+    "displayName": "Lithium Chloride Dust"
+  },
+  {
+    "id": "gtceu:chipped_ruby_gem",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Chipped Ruby"
+  },
+  {
+    "id": "gtceu:emerald_lens",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Emerald Lens"
+  },
+  {
+    "id": "gtceu:tiny_flint_dust",
+    "count": 4,
+    "craftable": false,
+    "displayName": "Tiny Pile of Flint Dust"
+  },
+  {
+    "id": "gtceu:wood_gear",
+    "count": 5,
+    "craftable": false,
+    "displayName": "Wood Gear"
+  },
+  {
+    "id": "gtceu:simple_soc",
+    "count": 25,
+    "craftable": false,
+    "displayName": "Simple SoC"
+  },
+  {
+    "id": "create:copper_sheet",
+    "count": 63,
+    "craftable": false,
+    "displayName": "Copper Sheet"
+  },
+  {
+    "id": "gtceu:coke_gem",
+    "count": 4,
+    "craftable": false,
+    "displayName": "Coke"
+  },
+  {
+    "id": "minecraft:glass_pane",
+    "count": 10,
+    "craftable": false,
+    "displayName": "Glass Pane"
+  },
+  {
+    "id": "tfc:straw",
+    "count": 38,
+    "craftable": false,
+    "displayName": "Straw"
+  },
+  {
+    "id": "gtceu:silicon_wafer",
+    "count": 62,
+    "craftable": false,
+    "displayName": "Silicon Wafer"
+  },
+  {
+    "id": "gtceu:ash_dust",
+    "count": 90,
+    "craftable": false,
+    "displayName": "Ashes"
+  },
+  {
+    "id": "gtceu:vanadium_steel_ingot",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Vanadium Steel Ingot"
+  },
+  {
+    "id": "gtceu:small_samarium_dust",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Small Pile of Samarium Dust"
+  },
+  {
+    "id": "gtceu:lv_super_chest",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Super Chest I"
+  },
+  {
+    "id": "firmalife:beeswax",
+    "count": 19,
+    "craftable": false,
+    "displayName": "Beeswax"
+  },
+  {
+    "id": "gtceu:pyrite_dust",
+    "count": 2253,
+    "craftable": false,
+    "displayName": "Pyrite Dust"
+  },
+  {
+    "id": "gtceu:heatproof_machine_casing",
+    "count": 9,
+    "craftable": true,
+    "displayName": "Heat Proof Invar Machine Casing"
+  },
+  {
+    "id": "gtceu:hv_super_tank",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Super Tank III"
+  },
+  {
+    "id": "gtceu:copper_dust",
+    "count": 6502,
+    "craftable": false,
+    "displayName": "Copper Dust"
+  },
+  {
+    "id": "afc:wood/planks/hevea",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Hevea Planks"
+  },
+  {
+    "id": "gtceu:lapotron_gem",
+    "count": 6,
+    "craftable": true,
+    "displayName": "Lapotron"
+  },
+  {
+    "id": "gtceu:rose_gold_dust",
+    "count": 9,
+    "craftable": false,
+    "displayName": "Rose Gold Dust"
+  },
+  {
+    "id": "tfc:metal/ingot/black_steel",
+    "count": 143,
+    "craftable": false,
+    "displayName": "Black Steel Ingot"
+  },
+  {
+    "id": "create:chute",
+    "count": 5,
+    "craftable": false,
+    "displayName": "Chute"
+  },
+  {
+    "id": "gtceu:nickel_zinc_ferrite_ring",
+    "count": 379,
+    "craftable": false,
+    "displayName": "Nickel Zinc Ferrite Ring"
+  },
+  {
+    "id": "gtceu:flawless_cinnabar_gem",
+    "count": 25,
+    "craftable": false,
+    "displayName": "Flawless Cinnabar"
+  },
+  {
+    "id": "gtceu:small_ruby_dust",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Small Pile of Ruby Dust"
+  },
+  {
+    "id": "gtceu:mercury_barium_calcium_cuprate_ingot",
+    "count": 56,
+    "craftable": false,
+    "displayName": "Mercury Barium Calcium Cuprate Ingot"
+  },
+  {
+    "id": "gtceu:flawless_salt_gem",
+    "count": 3,
+    "craftable": false,
+    "displayName": "Flawless Salt"
+  },
+  {
+    "id": "greate:aluminium_gearbox",
+    "count": 4,
+    "craftable": false,
+    "displayName": "Aluminium Gearbox"
+  },
+  {
+    "id": "gtceu:fine_tin_wire",
+    "count": 186,
+    "craftable": false,
+    "displayName": "Fine Tin Wire"
+  },
+  {
+    "id": "tfg:phantom_thread",
+    "count": 16,
+    "craftable": false,
+    "displayName": "item.tfg.phantom_thread"
+  },
+  {
+    "id": "gtceu:plate_extruder_mold",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Extruder Mold (Plate)"
+  },
+  {
+    "id": "gtceu:light_concrete",
+    "count": 19,
+    "craftable": true,
+    "displayName": "Light Concrete"
+  },
+  {
+    "id": "gtceu:microchip_processor",
+    "count": 48,
+    "craftable": false,
+    "displayName": "Microchip Processor"
+  },
+  {
+    "id": "gtceu:lv_input_bus",
+    "count": 2,
+    "craftable": false,
+    "displayName": "\u00a77LV Input Bus"
+  },
+  {
+    "id": "gtceu:steel_dust",
+    "count": 527,
+    "craftable": false,
+    "displayName": "Steel Dust"
+  },
+  {
+    "id": "gtceu:magnesium_chloride_dust",
+    "count": 4833,
+    "craftable": false,
+    "displayName": "Magnesium Chloride Dust"
+  },
+  {
+    "id": "gtceu:palladium_dust",
+    "count": 390,
+    "craftable": false,
+    "displayName": "Palladium Dust"
+  },
+  {
+    "id": "gtceu:vitrified_asbestos_dust",
+    "count": 16,
+    "craftable": false,
+    "displayName": "material.gtceu.vitrified_asbestos Dust"
+  },
+  {
+    "id": "gtceu:sticky_resin",
+    "count": 1088,
+    "craftable": false,
+    "displayName": "Sticky Resin"
+  },
+  {
+    "id": "gtceu:rarest_metal_mixture_dust",
+    "count": 557,
+    "craftable": false,
+    "displayName": "Rarest Metal Mixture"
+  },
+  {
+    "id": "gtceu:solid_machine_casing",
+    "count": 1,
+    "craftable": true,
+    "displayName": "Solid Machine Casing"
+  },
+  {
+    "id": "gtceu:kanthal_dust",
+    "count": 3,
+    "craftable": true,
+    "displayName": "Kanthal Dust"
+  },
+  {
+    "id": "tfc:wood/planks/kapok_slab",
+    "count": 4,
+    "craftable": false,
+    "displayName": "Kapok Slab"
+  },
+  {
+    "id": "tfc:brick/limestone",
+    "count": 3,
+    "craftable": false,
+    "displayName": "Limestone Brick"
+  },
+  {
+    "id": "ae2:printed_engineering_processor",
+    "count": 145,
+    "craftable": false,
+    "displayName": "Printed Engineering Circuit"
+  },
+  {
+    "id": "greate:steel_cogwheel",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Steel Cogwheel"
+  },
+  {
+    "id": "gtceu:small_red_garnet_dust",
+    "count": 7,
+    "craftable": false,
+    "displayName": "Small Pile of Red Garnet Dust"
+  },
+  {
+    "id": "gtceu:manganese_phosphide_double_wire",
+    "count": 6,
+    "craftable": false,
+    "displayName": "2x Manganese Phosphide Wire"
+  },
+  {
+    "id": "gtceu:gypsum_dust",
+    "count": 1765,
+    "craftable": false,
+    "displayName": "Gypsum Dust"
+  },
+  {
+    "id": "gtceu:silver_bolt",
+    "count": 44,
+    "craftable": false,
+    "displayName": "Silver Bolt"
+  },
+  {
+    "id": "gtceu:steel_crate",
+    "count": 14,
+    "craftable": false,
+    "displayName": "Steel Crate"
+  },
+  {
+    "id": "gtceu:silver_dust",
+    "count": 7320,
+    "craftable": false,
+    "displayName": "Silver Dust"
+  },
+  {
+    "id": "gtceu:flawless_quartzite_gem",
+    "count": 749,
+    "craftable": false,
+    "displayName": "Flawless Quartzite"
+  },
+  {
+    "id": "ad_astra:small_red_industrial_lamp",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Small Red Industrial Lamp"
+  },
+  {
+    "id": "gtceu:cassiterite_sand_dust",
+    "count": 2812,
+    "craftable": false,
+    "displayName": "Cassiterite Sand"
+  },
+  {
+    "id": "ae2:certus_quartz_dust",
+    "count": 2114,
+    "craftable": false,
+    "displayName": "Certus Quartz Dust"
+  },
+  {
+    "id": "gtceu:brass_dust",
+    "count": 8,
+    "craftable": false,
+    "displayName": "Brass Dust"
+  },
+  {
+    "id": "gtceu:tricalcium_phosphate_dust",
+    "count": 524,
+    "craftable": false,
+    "displayName": "Tricalcium Phosphate Dust"
+  },
+  {
+    "id": "gtceu:titanium_plate",
+    "count": 7,
+    "craftable": true,
+    "displayName": "Titanium Plate"
+  },
+  {
+    "id": "gtceu:phosphorus_dust",
+    "count": 225,
+    "craftable": false,
+    "displayName": "Phosphorus Dust"
+  },
+  {
+    "id": "gtceu:yttrium_dust",
+    "count": 482,
+    "craftable": false,
+    "displayName": "Yttrium Dust"
+  },
+  {
+    "id": "gtceu:ice_dust",
+    "count": 3281,
+    "craftable": false,
+    "displayName": "Crushed Ice"
+  },
+  {
+    "id": "tfc:rock/hardened/basalt",
+    "count": 64,
+    "craftable": false,
+    "displayName": "Hardened Basalt"
+  },
+  {
+    "id": "gtceu:niobium_dust",
+    "count": 740,
+    "craftable": false,
+    "displayName": "Niobium Dust"
+  },
+  {
+    "id": "gtceu:brass_rod",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Brass Rod"
+  },
+  {
+    "id": "gtceu:fine_black_steel_wire",
+    "count": 96,
+    "craftable": false,
+    "displayName": "Fine Black Steel Wire"
+  },
+  {
+    "id": "gtceu:lead_nugget",
+    "count": 79,
+    "craftable": false,
+    "displayName": "Lead Nugget"
+  },
+  {
+    "id": "ae2:calculation_processor",
+    "count": 64,
+    "craftable": false,
+    "displayName": "Calculation Processor"
+  },
+  {
+    "id": "gtceu:platinum_dust",
+    "count": 647,
+    "craftable": false,
+    "displayName": "Platinum Dust"
+  },
+  {
+    "id": "gtceu:polytetrafluoroethylene_plate",
+    "count": 84,
+    "craftable": false,
+    "displayName": "Polytetrafluoroethylene Sheet"
+  },
+  {
+    "id": "create:steam_engine",
+    "count": 11,
+    "craftable": false,
+    "displayName": "Steam Engine"
+  },
+  {
+    "id": "gtceu:copper_spring",
+    "count": 70,
+    "craftable": false,
+    "displayName": "Copper Spring"
+  },
+  {
+    "id": "tfc:wood/lumber/pine",
+    "count": 320,
+    "craftable": false,
+    "displayName": "Pine Lumber"
+  },
+  {
+    "id": "gtceu:small_lanthanum_dust",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Small Pile of Lanthanum Dust"
+  },
+  {
+    "id": "gtceu:plutonium_dust",
+    "count": 50,
+    "craftable": false,
+    "displayName": "Plutonium Dust"
+  },
+  {
+    "id": "gtceu:rtm_alloy_dust",
+    "count": 4,
+    "craftable": true,
+    "displayName": "RTM Alloy Dust"
+  },
+  {
+    "id": "gtceu:gallium_ingot",
+    "count": 112,
+    "craftable": false,
+    "displayName": "Gallium Ingot"
+  },
+  {
+    "id": "gtceu:small_bronze_gear",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Small Bronze Gear"
+  },
+  {
+    "id": "tfc:rock/cobble/shale",
+    "count": 27,
+    "craftable": false,
+    "displayName": "Shale Cobble"
+  },
+  {
+    "id": "gtceu:purified_sphalerite_ore",
+    "count": 553,
+    "craftable": false,
+    "displayName": "Purified Sphalerite Ore"
+  },
+  {
+    "id": "gtceu:aluminium_ingot",
+    "count": 1888,
+    "craftable": false,
+    "displayName": "Aluminium Ingot"
+  },
+  {
+    "id": "gtceu:aluminium_small_fluid_pipe",
+    "count": 44,
+    "craftable": false,
+    "displayName": "Small Aluminium Fluid Pipe"
+  },
+  {
+    "id": "gtceu:cobalt_brass_dust",
+    "count": 8,
+    "craftable": false,
+    "displayName": "Cobalt Brass Dust"
+  },
+  {
+    "id": "gtceu:vacuum_tube",
+    "count": 55,
+    "craftable": false,
+    "displayName": "Vacuum Tube"
+  },
+  {
+    "id": "gtceu:flawless_diamond_gem",
+    "count": 56,
+    "craftable": false,
+    "displayName": "Flawless Diamond"
+  },
+  {
+    "id": "gtceu:chipped_olivine_gem",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Chipped Olivine"
+  },
+  {
+    "id": "gtceu:graphite_dust",
+    "count": 1021,
+    "craftable": false,
+    "displayName": "Graphite Dust"
+  },
+  {
+    "id": "gtceu:cpu_chip",
+    "count": 404,
+    "craftable": false,
+    "displayName": "CPU Chip"
+  },
+  {
+    "id": "gtceu:smd_diode",
+    "count": 12,
+    "craftable": true,
+    "displayName": "SMD Diode"
+  },
+  {
+    "id": "minecraft:charcoal",
+    "count": 284322,
+    "craftable": false,
+    "displayName": "Charcoal"
+  },
+  {
+    "id": "gtceu:tiny_olivine_dust",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Tiny Pile of Olivine Dust"
+  },
+  {
+    "id": "ae2:semi_dark_monitor",
+    "count": 8,
+    "craftable": true,
+    "displayName": "Illuminated Panel"
+  },
+  {
+    "id": "framedblocks:framed_elevated_slope_slab",
+    "count": 4,
+    "craftable": false,
+    "displayName": "Framed Elevated Slope Slab"
+  },
+  {
+    "id": "gtceu:neodymium_ingot",
+    "count": 16,
+    "craftable": false,
+    "displayName": "Neodymium Ingot"
+  },
+  {
+    "id": "waterflasks:bladder",
+    "count": 5,
+    "craftable": false,
+    "displayName": "Bladder"
+  },
+  {
+    "id": "gtceu:treated_wood_plate",
+    "count": 4,
+    "craftable": false,
+    "displayName": "Treated Wood Plank"
+  },
+  {
+    "id": "create:asurine",
+    "count": 54,
+    "craftable": false,
+    "displayName": "Asurine"
+  },
+  {
+    "id": "gtceu:gold_rod",
+    "count": 24,
+    "craftable": false,
+    "displayName": "Gold Rod"
+  },
+  {
+    "id": "gtceu:chromium_rod",
+    "count": 1,
+    "craftable": true,
+    "displayName": "Chromium Rod"
+  },
+  {
+    "id": "gtceu:red_alloy_single_wire",
+    "count": 150,
+    "craftable": false,
+    "displayName": "1x Red Alloy Wire"
+  },
+  {
+    "id": "gtceu:chromium_ingot",
+    "count": 16,
+    "craftable": false,
+    "displayName": "Chromium Ingot"
+  },
+  {
+    "id": "gtceu:nand_chip",
+    "count": 32,
+    "craftable": false,
+    "displayName": "NAND Chip"
+  },
+  {
+    "id": "gtceu:molybdenite_dust",
+    "count": 47,
+    "craftable": false,
+    "displayName": "Molybdenite Dust"
+  },
+  {
+    "id": "gtceu:aluminium_screw",
+    "count": 14,
+    "craftable": false,
+    "displayName": "Aluminium Screw"
+  },
+  {
+    "id": "tfc:metal/ingot/red_steel",
+    "count": 4,
+    "craftable": false,
+    "displayName": "Red Steel Ingot"
+  },
+  {
+    "id": "gtceu:small_silicon_dioxide_dust",
+    "count": 12,
+    "craftable": false,
+    "displayName": "Small Pile of Silicon Dioxide Dust"
+  },
+  {
+    "id": "afc:wood/sign/hevea",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Hevea Sign"
+  },
+  {
+    "id": "gtceu:neodymium_rod",
+    "count": 1,
+    "craftable": true,
+    "displayName": "Neodymium Rod"
+  },
+  {
+    "id": "gtceu:micro_processor",
+    "count": 1,
+    "craftable": true,
+    "displayName": "Microprocessor"
+  },
+  {
+    "id": "gtceu:magnetite_dust",
+    "count": 251,
+    "craftable": false,
+    "displayName": "Magnetite Dust"
+  },
+  {
+    "id": "create:transmitter",
+    "count": 3,
+    "craftable": false,
+    "displayName": "Transmitter"
+  },
+  {
+    "id": "endermanoverhaul:summoner_pearl",
+    "count": 5,
+    "craftable": false,
+    "displayName": "Summoner Pearl"
+  },
+  {
+    "id": "tfc:plant/lily_of_the_valley",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Lily Of The Valley"
+  },
+  {
+    "id": "minecraft:spore_blossom",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Spore Blossom"
+  },
+  {
+    "id": "gtceu:caesium_dust",
+    "count": 97,
+    "craftable": false,
+    "displayName": "Caesium Dust"
+  },
+  {
+    "id": "gtceu:manganese_phosphide_quadruple_wire",
+    "count": 9,
+    "craftable": false,
+    "displayName": "4x Manganese Phosphide Wire"
+  },
+  {
+    "id": "gtceu:glass_plate",
+    "count": 986,
+    "craftable": false,
+    "displayName": "Glass Pane"
+  },
+  {
+    "id": "gtceu:hp_steam_compressor",
+    "count": 1,
+    "craftable": false,
+    "displayName": "High Pressure Steam Compressor"
+  },
+  {
+    "id": "gtceu:small_quartzite_dust",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Small Pile of Quartzite Dust"
+  },
+  {
+    "id": "gtceu:black_bronze_plate",
+    "count": 3,
+    "craftable": false,
+    "displayName": "Black Bronze Plate"
+  },
+  {
+    "id": "ad_astra:steel_sliding_door",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Steel Sliding Door"
+  },
+  {
+    "id": "gtceu:bronze_frame",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Bronze Frame"
+  },
+  {
+    "id": "gtceu:steel_gear",
+    "count": 4,
+    "craftable": false,
+    "displayName": "Steel Gear"
+  },
+  {
+    "id": "gtceu:fine_red_alloy_wire",
+    "count": 7,
+    "craftable": true,
+    "displayName": "Fine Red Alloy Wire"
+  },
+  {
+    "id": "gtceu:orange_glass_lens",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Glass Lens (Orange)"
+  },
+  {
+    "id": "gtceu:certus_quartz_plate",
+    "count": 62,
+    "craftable": false,
+    "displayName": "Certus Quartz Plate"
+  },
+  {
+    "id": "gtceu:bronze_foil",
+    "count": 40,
+    "craftable": false,
+    "displayName": "Bronze Foil"
+  },
+  {
+    "id": "minecraft:hopper",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Hopper"
+  },
+  {
+    "id": "gtceu:pitchblende_dust",
+    "count": 115,
+    "craftable": false,
+    "displayName": "Pitchblende"
+  },
+  {
+    "id": "tfc:brick/chalk",
+    "count": 580,
+    "craftable": false,
+    "displayName": "Chalk Brick"
+  },
+  {
+    "id": "gtceu:hv_input_hatch",
+    "count": 1,
+    "craftable": false,
+    "displayName": "\u00a76HV Input Hatch"
+  },
+  {
+    "id": "gtceu:small_lapis_dust",
+    "count": 3,
+    "craftable": false,
+    "displayName": "Small Pile of Lapis Dust"
+  },
+  {
+    "id": "gtceu:stibnite_dust",
+    "count": 2143,
+    "craftable": false,
+    "displayName": "Stibnite Dust"
+  },
+  {
+    "id": "gtceu:apatite_dust",
+    "count": 416,
+    "craftable": false,
+    "displayName": "Apatite Dust"
+  },
+  {
+    "id": "minecraft:flint",
+    "count": 129,
+    "craftable": false,
+    "displayName": "Flint"
+  },
+  {
+    "id": "gtceu:steel_screw",
+    "count": 27,
+    "craftable": false,
+    "displayName": "Steel Screw"
+  },
+  {
+    "id": "gtceu:small_iron_dust",
+    "count": 8,
+    "craftable": false,
+    "displayName": "Small Pile of Iron Dust"
+  },
+  {
+    "id": "create:zinc_ingot",
+    "count": 5918,
+    "craftable": false,
+    "displayName": "Zinc Ingot"
+  },
+  {
+    "id": "gtceu:gold_normal_fluid_pipe",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Normal Gold Fluid Pipe"
+  },
+  {
+    "id": "minecraft:gold_block",
+    "count": 15,
+    "craftable": false,
+    "displayName": "Block of Gold"
+  },
+  {
+    "id": "gtceu:red_steel_rod",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Red Steel Rod"
+  },
+  {
+    "id": "create:factory_gauge",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Factory Gauge"
+  },
+  {
+    "id": "ae2:printed_silicon",
+    "count": 145,
+    "craftable": false,
+    "displayName": "Printed Silicon"
+  },
+  {
+    "id": "gtceu:quicklime_dust",
+    "count": 1026,
+    "craftable": false,
+    "displayName": "Quicklime Dust"
+  },
+  {
+    "id": "gtceu:tungsten_double_wire",
+    "count": 3,
+    "craftable": true,
+    "displayName": "2x Tungsten Wire"
+  },
+  {
+    "id": "gtceu:cyan_glass_lens",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Glass Lens (Cyan)"
+  },
+  {
+    "id": "gtceu:polyphenylene_sulfide_foil",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Thin Polyphenylene Sulfide Sheet"
+  },
+  {
+    "id": "tfc:rock/cobble/dolomite",
+    "count": 672,
+    "craftable": false,
+    "displayName": "Dolomite Cobble"
+  },
+  {
+    "id": "gtceu:electrum_single_wire",
+    "count": 418,
+    "craftable": false,
+    "displayName": "1x Electrum Wire"
+  },
+  {
+    "id": "tfc:wool_cloth",
+    "count": 9,
+    "craftable": false,
+    "displayName": "Wool Cloth"
+  },
+  {
+    "id": "vintageimprovements:cast_iron_sheet",
+    "count": 8,
+    "craftable": false,
+    "displayName": "Cast Iron Sheet"
+  },
+  {
+    "id": "gtceu:nickel_single_wire",
+    "count": 32,
+    "craftable": false,
+    "displayName": "1x Nickel Wire"
+  },
+  {
+    "id": "gtceu:plascrete",
+    "count": 4,
+    "craftable": true,
+    "displayName": "Plascrete"
+  },
+  { "id": "tfc:glue", "count": 7, "craftable": false, "displayName": "Glue" },
+  {
+    "id": "gtceu:flawless_certus_quartz_gem",
+    "count": 6,
+    "craftable": false,
+    "displayName": "Flawless Certus Quartz"
+  },
+  {
+    "id": "minecraft:copper_ingot",
+    "count": 13414,
+    "craftable": false,
+    "displayName": "Copper Ingot"
+  },
+  {
+    "id": "gtceu:annealed_copper_single_wire",
+    "count": 264,
+    "craftable": false,
+    "displayName": "1x Annealed Copper Wire"
+  },
+  {
+    "id": "gtceu:flawless_rock_salt_gem",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Flawless Rock Salt"
+  },
+  {
+    "id": "gtceu:hot_kanthal_ingot",
+    "count": 13,
+    "craftable": true,
+    "displayName": "Hot Kanthal Ingot"
+  },
+  {
+    "id": "gtceu:exquisite_certus_quartz_gem",
+    "count": 31,
+    "craftable": false,
+    "displayName": "Exquisite Certus Quartz"
+  },
+  {
+    "id": "ae2:annihilation_core",
+    "count": 173,
+    "craftable": false,
+    "displayName": "Annihilation Core"
+  },
+  {
+    "id": "gtceu:gallium_arsenide_dust",
+    "count": 128,
+    "craftable": false,
+    "displayName": "Gallium Arsenide Dust"
+  },
+  {
+    "id": "gtceu:bronze_ingot",
+    "count": 83,
+    "craftable": false,
+    "displayName": "Bronze Ingot"
+  },
+  {
+    "id": "ae2:logic_processor",
+    "count": 187,
+    "craftable": false,
+    "displayName": "Logic Processor"
+  },
+  {
+    "id": "gtceu:cerium_dust",
+    "count": 1036,
+    "craftable": false,
+    "displayName": "Cerium Dust"
+  },
+  {
+    "id": "gtceu:glass_dust",
+    "count": 1337,
+    "craftable": false,
+    "displayName": "Glass Dust"
+  },
+  {
+    "id": "gtceu:boron_dust",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Boron Dust"
+  },
+  {
+    "id": "gtceu:polyphenylene_sulfide_plate",
+    "count": 146,
+    "craftable": false,
+    "displayName": "Polyphenylene Sulfide Sheet"
+  },
+  {
+    "id": "tfc:small_sheepskin_hide",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Small Sheepskin Hide"
+  },
+  {
+    "id": "gtceu:resin_circuit_board",
+    "count": 32,
+    "craftable": false,
+    "displayName": "Resin Circuit Board"
+  },
+  {
+    "id": "tfc:rock/bricks/granite",
+    "count": 64,
+    "craftable": false,
+    "displayName": "Granite Bricks"
+  },
+  {
+    "id": "gtceu:bronze_screw",
+    "count": 14,
+    "craftable": false,
+    "displayName": "Bronze Screw"
+  },
+  {
+    "id": "gtceu:polyethylene_foil",
+    "count": 17,
+    "craftable": false,
+    "displayName": "Thin Polyethylene Sheet"
+  },
+  {
+    "id": "gtceu:fertilizer",
+    "count": 23723,
+    "craftable": false,
+    "displayName": "Fertilizer"
+  },
+  {
+    "id": "gtceu:red_alloy_rod",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Red Alloy Rod"
+  },
+  {
+    "id": "gtceu:malachite_dust",
+    "count": 307,
+    "craftable": false,
+    "displayName": "Malachite Dust"
+  },
+  {
+    "id": "gtceu:manganese_phosphide_single_wire",
+    "count": 12,
+    "craftable": false,
+    "displayName": "1x Manganese Phosphide Wire"
+  },
+  {
+    "id": "gtceu:fluid_filter",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Fluid Filter"
+  },
+  {
+    "id": "gtceu:graphene_double_wire",
+    "count": 12,
+    "craftable": true,
+    "displayName": "2x Graphene Wire"
+  },
+  {
+    "id": "gtceu:calcium_chloride_dust",
+    "count": 558,
+    "craftable": false,
+    "displayName": "Calcium Chloride Dust"
+  },
+  {
+    "id": "minecraft:clay",
+    "count": 36,
+    "craftable": false,
+    "displayName": "Clay"
+  },
+  {
+    "id": "gtceu:exquisite_nether_quartz_gem",
+    "count": 68,
+    "craftable": false,
+    "displayName": "Exquisite Nether Quartz"
+  },
+  {
+    "id": "create:precision_mechanism",
+    "count": 34,
+    "craftable": false,
+    "displayName": "Precision Mechanism"
+  },
+  {
+    "id": "gtceu:ram_chip",
+    "count": 28,
+    "craftable": true,
+    "displayName": "RAM Chip"
+  },
+  {
+    "id": "gtceu:coke_oven_bricks",
+    "count": 45,
+    "craftable": false,
+    "displayName": "Coke Oven Bricks"
+  },
+  {
+    "id": "create:stock_link",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Stock Link"
+  },
+  {
+    "id": "create:fluid_pipe",
+    "count": 37,
+    "craftable": false,
+    "displayName": "Fluid Pipe"
+  },
+  {
+    "id": "gtceu:lapotron_dust",
+    "count": 95,
+    "craftable": false,
+    "displayName": "Lapotron Dust"
+  },
+  {
+    "id": "gtceu:smd_capacitor",
+    "count": 22,
+    "craftable": true,
+    "displayName": "SMD Capacitor"
+  },
+  {
+    "id": "minecraft:gunpowder",
+    "count": 328,
+    "craftable": false,
+    "displayName": "Gunpowder"
+  },
+  {
+    "id": "gtceu:fine_steel_wire",
+    "count": 8,
+    "craftable": false,
+    "displayName": "Fine Steel Wire"
+  },
+  {
+    "id": "ae2:fluix_crystal",
+    "count": 1181,
+    "craftable": false,
+    "displayName": "Fluix Crystal"
+  },
+  {
+    "id": "gtceu:fine_annealed_copper_wire",
+    "count": 252,
+    "craftable": false,
+    "displayName": "Fine Annealed Copper Wire"
+  },
+  {
+    "id": "gtceu:treated_wood_planks",
+    "count": 25,
+    "craftable": false,
+    "displayName": "Treated Wood Planks"
+  },
+  {
+    "id": "afc:wood/leaves/live_oak",
+    "count": 13,
+    "craftable": false,
+    "displayName": "Live Oak Leaves"
+  },
+  {
+    "id": "gtceu:carbon_fibers",
+    "count": 320,
+    "craftable": false,
+    "displayName": "Raw Carbon Fibers"
+  },
+  {
+    "id": "tfc:rock/cobble/phyllite",
+    "count": 11,
+    "craftable": false,
+    "displayName": "Phyllite Cobble"
+  },
+  {
+    "id": "gtceu:hv_input_bus",
+    "count": 1,
+    "craftable": false,
+    "displayName": "\u00a76HV Input Bus"
+  },
+  {
+    "id": "gtceu:cupronickel_plate",
+    "count": 9,
+    "craftable": false,
+    "displayName": "Cupronickel Plate"
+  },
+  {
+    "id": "gtceu:sulfur_dust",
+    "count": 15493,
+    "craftable": false,
+    "displayName": "Sulfur Dust"
+  },
+  {
+    "id": "gtceu:sodium_hydroxide_dust",
+    "count": 68510,
+    "craftable": false,
+    "displayName": "Sodium Hydroxide Dust"
+  },
+  {
+    "id": "gtceu:tungsten_carbide_ingot",
+    "count": 40,
+    "craftable": false,
+    "displayName": "Tungsten Carbide Ingot"
+  },
+  {
+    "id": "gtceu:tempered_glass",
+    "count": 16,
+    "craftable": false,
+    "displayName": "Tempered Glass"
+  },
+  {
+    "id": "gtceu:potassium_dust",
+    "count": 2127,
+    "craftable": false,
+    "displayName": "Potassium Dust"
+  },
+  {
+    "id": "tfc:rock/bricks/limestone",
+    "count": 32,
+    "craftable": false,
+    "displayName": "Limestone Bricks"
+  },
+  {
+    "id": "gtceu:palladium_raw_dust",
+    "count": 1671,
+    "craftable": false,
+    "displayName": "Raw Palladium Powder"
+  },
+  {
+    "id": "gtceu:silver_single_wire",
+    "count": 128,
+    "craftable": false,
+    "displayName": "1x Silver Wire"
+  },
+  {
+    "id": "minecraft:polished_deepslate",
+    "count": 4,
+    "craftable": false,
+    "displayName": "Polished Deepslate"
+  },
+  {
+    "id": "computercraft:cable",
+    "count": 6,
+    "craftable": true,
+    "displayName": "Networking Cable"
+  },
+  {
+    "id": "gtceu:stainless_steel_gear",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Stainless Steel Gear"
+  },
+  {
+    "id": "tfc:rock/cobble/gabbro",
+    "count": 11,
+    "craftable": false,
+    "displayName": "Gabbro Cobble"
+  },
+  {
+    "id": "gtceu:cpu_wafer",
+    "count": 453,
+    "craftable": false,
+    "displayName": "CPU Wafer"
+  },
+  {
+    "id": "gtceu:tin_rod",
+    "count": 114,
+    "craftable": false,
+    "displayName": "Tin Rod"
+  },
+  {
+    "id": "gtceu:antimony_trioxide_dust",
+    "count": 2752,
+    "craftable": false,
+    "displayName": "Antimony Trioxide Dust"
+  },
+  {
+    "id": "tfg:photo_cell_t1",
+    "count": 64,
+    "craftable": false,
+    "displayName": "item.tfg.photo_cell_t1"
+  },
+  {
+    "id": "tfc:lamp_glass",
+    "count": 11,
+    "craftable": false,
+    "displayName": "Lamp Glass"
+  },
+  {
+    "id": "gtceu:steel_bolt",
+    "count": 56,
+    "craftable": false,
+    "displayName": "Steel Bolt"
+  },
+  {
+    "id": "beneath:burpflower",
+    "count": 3,
+    "craftable": false,
+    "displayName": "Burpflower"
+  },
+  {
+    "id": "gtceu:ilc_chip",
+    "count": 1392,
+    "craftable": false,
+    "displayName": "IC Chip"
+  },
+  {
+    "id": "gtceu:cobaltite_dust",
+    "count": 1631,
+    "craftable": false,
+    "displayName": "Cobaltite Dust"
+  },
+  {
+    "id": "gtceu:copper_single_wire",
+    "count": 1,
+    "craftable": true,
+    "displayName": "1x Copper Wire"
+  },
+  {
+    "id": "gtceu:flawed_quartzite_gem",
+    "count": 2022,
+    "craftable": false,
+    "displayName": "Flawed Quartzite"
+  },
+  {
+    "id": "gtceu:small_neodymium_dust",
+    "count": 3,
+    "craftable": false,
+    "displayName": "Small Pile of Neodymium Dust"
+  },
+  {
+    "id": "gtceu:cupronickel_single_wire",
+    "count": 12,
+    "craftable": true,
+    "displayName": "1x Cupronickel Wire"
+  },
+  {
+    "id": "gtceu:small_meat_dust",
+    "count": 84,
+    "craftable": false,
+    "displayName": "Small Pile of Mince Meat"
+  },
+  {
+    "id": "gtceu:naquadah_dust",
+    "count": 398,
+    "craftable": false,
+    "displayName": "Naquadah Dust"
+  },
+  {
+    "id": "gtceu:small_lazurite_dust",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Small Pile of Lazurite Dust"
+  },
+  {
+    "id": "create:electron_tube",
+    "count": 98,
+    "craftable": false,
+    "displayName": "Electron Tube"
+  },
+  {
+    "id": "gtceu:steel_rod",
+    "count": 1,
+    "craftable": true,
+    "displayName": "Steel Rod"
+  },
+  {
+    "id": "gtceu:aluminium_foil",
+    "count": 88,
+    "craftable": false,
+    "displayName": "Aluminium Foil"
+  },
+  {
+    "id": "tfg:small_fluix_dust",
+    "count": 1,
+    "craftable": true,
+    "displayName": "Small Pile of material.tfg.fluix Dust"
+  },
+  {
+    "id": "minecraft:string",
+    "count": 46,
+    "craftable": false,
+    "displayName": "String"
+  },
+  { "id": "tfc:soot", "count": 26, "craftable": false, "displayName": "Soot" },
+  {
+    "id": "gtceu:cassiterite_dust",
+    "count": 238,
+    "craftable": false,
+    "displayName": "Cassiterite Dust"
+  },
+  {
+    "id": "gtceu:energium_dust",
+    "count": 429,
+    "craftable": false,
+    "displayName": "Energium Dust"
+  },
+  {
+    "id": "gtceu:fine_borosilicate_glass_wire",
+    "count": 5,
+    "craftable": true,
+    "displayName": "Borosilicate Glass Fibers"
+  },
+  {
+    "id": "gtceu:energy_crystal",
+    "count": 3,
+    "craftable": false,
+    "displayName": "Energium Crystal"
+  },
+  {
+    "id": "gtceu:nether_quartz_plate",
+    "count": 8,
+    "craftable": false,
+    "displayName": "Nether Quartz Plate"
+  },
+  {
+    "id": "gtceu:steel_machine_casing",
+    "count": 17,
+    "craftable": false,
+    "displayName": "Solid Steel Machine Casing"
+  },
+  {
+    "id": "ae2:fluix_dust",
+    "count": 334,
+    "craftable": false,
+    "displayName": "Fluix Dust"
+  },
+  {
+    "id": "tfc:powder/flux",
+    "count": 1078,
+    "craftable": false,
+    "displayName": "Flux"
+  },
+  {
+    "id": "gtceu:phosphorus_pentoxide_dust",
+    "count": 10,
+    "craftable": false,
+    "displayName": "Phosphorus Pentoxide Dust"
+  },
+  {
+    "id": "tfc:wood/planks/pine",
+    "count": 8,
+    "craftable": false,
+    "displayName": "Pine Planks"
+  },
+  {
+    "id": "ae2:fluix_block",
+    "count": 11,
+    "craftable": false,
+    "displayName": "Fluix Block"
+  },
+  {
+    "id": "minecraft:coal",
+    "count": 947,
+    "craftable": false,
+    "displayName": "Coal"
+  },
+  {
+    "id": "gtceu:lv_robot_arm",
+    "count": 3,
+    "craftable": false,
+    "displayName": "LV Robot Arm"
+  },
+  {
+    "id": "gtceu:small_yttrium_dust",
+    "count": 3,
+    "craftable": false,
+    "displayName": "Small Pile of Yttrium Dust"
+  },
+  {
+    "id": "gtceu:flawed_nether_quartz_gem",
+    "count": 517,
+    "craftable": false,
+    "displayName": "Flawed Nether Quartz"
+  },
+  {
+    "id": "gtceu:brass_screw",
+    "count": 16,
+    "craftable": false,
+    "displayName": "Brass Screw"
+  },
+  {
+    "id": "gtceu:chipped_emerald_gem",
+    "count": 191,
+    "craftable": false,
+    "displayName": "Chipped Emerald"
+  },
+  {
+    "id": "ad_astra:iron_factory_block",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Iron Factory Block"
+  },
+  {
+    "id": "tfc:rock/bricks/marble",
+    "count": 54,
+    "craftable": false,
+    "displayName": "Marble Bricks"
+  },
+  { "id": "tfc:lens", "count": 3, "craftable": false, "displayName": "Lens" },
+  {
+    "id": "gtceu:wood_dust",
+    "count": 1320,
+    "craftable": false,
+    "displayName": "Wood Pulp"
+  },
+  {
+    "id": "gtceu:rtm_alloy_ingot",
+    "count": 1,
+    "craftable": true,
+    "displayName": "RTM Alloy Ingot"
+  },
+  {
+    "id": "gtceu:stainless_steel_bolt",
+    "count": 4,
+    "craftable": false,
+    "displayName": "Stainless Steel Bolt"
+  },
+  {
+    "id": "gtceu:goethite_dust",
+    "count": 533,
+    "craftable": false,
+    "displayName": "Goethite Dust"
+  },
+  {
+    "id": "gtceu:granitic_mineral_sand_dust",
+    "count": 14,
+    "craftable": false,
+    "displayName": "Granitic Mineral Sand"
+  },
+  {
+    "id": "minecraft:bone_meal",
+    "count": 237,
+    "craftable": false,
+    "displayName": "Bone Meal"
+  },
+  {
+    "id": "gtceu:chipped_quartzite_gem",
+    "count": 586,
+    "craftable": false,
+    "displayName": "Chipped Quartzite"
+  },
+  {
+    "id": "gtceu:aluminium_quadruple_wire",
+    "count": 44,
+    "craftable": true,
+    "displayName": "4x Aluminium Wire"
+  },
+  {
+    "id": "gtceu:resin_printed_circuit_board",
+    "count": 40,
+    "craftable": false,
+    "displayName": "Resin Printed Circuit Board"
+  },
+  {
+    "id": "gtceu:tin_quadruple_cable",
+    "count": 1,
+    "craftable": false,
+    "displayName": "4x Tin Cable"
+  },
+  {
+    "id": "create:framed_glass",
+    "count": 60,
+    "craftable": false,
+    "displayName": "Framed Glass"
+  },
+  {
+    "id": "gtceu:inert_machine_casing",
+    "count": 2,
+    "craftable": true,
+    "displayName": "Chemically Inert PTFE Machine Casing"
+  },
+  {
+    "id": "gtceu:annealed_copper_single_cable",
+    "count": 62,
+    "craftable": false,
+    "displayName": "1x Annealed Copper Cable"
+  },
+  {
+    "id": "gtceu:large_chemical_reactor",
+    "count": 2,
+    "craftable": true,
+    "displayName": "Large Chemical Reactor"
+  },
+  {
+    "id": "gtceu:barium_dust",
+    "count": 839,
+    "craftable": false,
+    "displayName": "Barium Dust"
+  },
+  {
+    "id": "gtceu:tin_dust",
+    "count": 2379,
+    "craftable": false,
+    "displayName": "Tin Dust"
+  },
+  {
+    "id": "gtceu:small_salt_dust",
+    "count": 21,
+    "craftable": false,
+    "displayName": "Small Pile of Salt"
+  },
+  {
+    "id": "gtceu:tin_single_wire",
+    "count": 52,
+    "craftable": false,
+    "displayName": "1x Tin Wire"
+  },
+  {
+    "id": "gtceu:platinum_ingot",
+    "count": 28,
+    "craftable": false,
+    "displayName": "Platinum Ingot"
+  },
+  {
+    "id": "gtceu:magnetic_iron_rod",
+    "count": 4,
+    "craftable": false,
+    "displayName": "Magnetic Iron Rod"
+  },
+  {
+    "id": "tfc:small_raw_hide",
+    "count": 7,
+    "craftable": false,
+    "displayName": "Small Raw Hide"
+  },
+  {
+    "id": "gtceu:antimony_dust",
+    "count": 4898,
+    "craftable": false,
+    "displayName": "Antimony Dust"
+  },
+  {
+    "id": "gtceu:stainless_steel_normal_fluid_pipe",
+    "count": 4,
+    "craftable": true,
+    "displayName": "Normal Stainless Steel Fluid Pipe"
+  },
+  {
+    "id": "tfc:rock/gravel/claystone",
+    "count": 476,
+    "craftable": false,
+    "displayName": "Claystone Gravel"
+  },
+  {
+    "id": "tfc:wood/planks/chestnut",
+    "count": 7,
+    "craftable": false,
+    "displayName": "Chestnut Planks"
+  },
+  {
+    "id": "gtceu:small_coal_dust",
+    "count": 176,
+    "craftable": false,
+    "displayName": "Small Pile of Coal Dust"
+  },
+  {
+    "id": "gtceu:raw_rubber_dust",
+    "count": 723,
+    "craftable": false,
+    "displayName": "Raw Rubber Pulp"
+  },
+  {
+    "id": "minecraft:gold_ingot",
+    "count": 11997,
+    "craftable": false,
+    "displayName": "Gold Ingot"
+  },
+  {
+    "id": "tfc:metal/chain/copper",
+    "count": 113,
+    "craftable": false,
+    "displayName": "Copper Chain"
+  },
+  {
+    "id": "gtceu:small_emerald_dust",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Small Pile of Emerald Dust"
+  },
+  {
+    "id": "gtceu:cupronickel_normal_item_pipe",
+    "count": 19,
+    "craftable": false,
+    "displayName": "Normal Cupronickel Item Pipe"
+  },
+  {
+    "id": "gtceu:rose_quartz_plate",
+    "count": 12,
+    "craftable": false,
+    "displayName": "Rose Quartz Plate"
+  },
+  {
+    "id": "gtceu:diamond_dust",
+    "count": 1283,
+    "craftable": false,
+    "displayName": "Diamond Dust"
+  },
+  {
+    "id": "gtceu:silicon_boule",
+    "count": 17,
+    "craftable": false,
+    "displayName": "Monocrystalline Silicon Boule"
+  },
+  {
+    "id": "gtceu:tungsten_double_cable",
+    "count": 1,
+    "craftable": true,
+    "displayName": "2x Tungsten Cable"
+  },
+  {
+    "id": "gtceu:aluminium_fluid_cell",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Empty Aluminium Cell"
+  },
+  {
+    "id": "ae2:chipped_budding_quartz",
+    "count": 7,
+    "craftable": false,
+    "displayName": "Chipped Budding Certus Quartz"
+  },
+  {
+    "id": "tfg:foil_pack",
+    "count": 10,
+    "craftable": false,
+    "displayName": "item.tfg.foil_pack"
+  },
+  {
+    "id": "gtceu:small_opal_dust",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Small Pile of Opal Dust"
+  },
+  {
+    "id": "gtceu:lpic_wafer",
+    "count": 55,
+    "craftable": false,
+    "displayName": "LPIC Wafer"
+  },
+  {
+    "id": "gtceu:lanthanum_dust",
+    "count": 345,
+    "craftable": false,
+    "displayName": "Lanthanum Dust"
+  },
+  {
+    "id": "gtceu:stainless_steel_large_fluid_pipe",
+    "count": 5,
+    "craftable": false,
+    "displayName": "Large Stainless Steel Fluid Pipe"
+  },
+  {
+    "id": "gtceu:mercury_barium_calcium_cuprate_quadruple_wire",
+    "count": 41,
+    "craftable": false,
+    "displayName": "4x Mercury Barium Calcium Cuprate Wire"
+  },
+  {
+    "id": "endermanoverhaul:corrupted_pearl",
+    "count": 4,
+    "craftable": false,
+    "displayName": "Corrupted Pearl"
+  },
+  {
+    "id": "gtceu:wrought_iron_plate",
+    "count": 42,
+    "craftable": false,
+    "displayName": "Wrought Iron Plate"
+  },
+  {
+    "id": "gtceu:hv_output_bus",
+    "count": 1,
+    "craftable": false,
+    "displayName": "\u00a76HV Output Bus"
+  },
+  {
+    "id": "domum_ornamentum:roan_stone_bricks",
+    "count": 15,
+    "craftable": false,
+    "displayName": "Roan Stone Bricks"
+  },
+  {
+    "id": "gtceu:beryllium_dust",
+    "count": 855,
+    "craftable": false,
+    "displayName": "Beryllium Dust"
+  },
+  {
+    "id": "gtceu:flawless_emerald_gem",
+    "count": 88,
+    "craftable": false,
+    "displayName": "Flawless Emerald"
+  },
+  {
+    "id": "gtceu:hardwood_dust",
+    "count": 640,
+    "craftable": false,
+    "displayName": "material.gtceu.hardwood Dust"
+  },
+  {
+    "id": "gtceu:hv_combustion",
+    "count": 2,
+    "craftable": false,
+    "displayName": "\u00a76Advanced Combustion Generator II\u00a7r"
+  },
+  {
+    "id": "gtceu:bronze_bolt",
+    "count": 12,
+    "craftable": false,
+    "displayName": "Bronze Bolt"
+  },
+  {
+    "id": "gtceu:ev_machine_casing",
+    "count": 1,
+    "craftable": true,
+    "displayName": "EV Machine Casing"
+  },
+  {
+    "id": "gtceu:sapphire_lens",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Sapphire Lens"
+  },
+  {
+    "id": "tfc:brick/chert",
+    "count": 3,
+    "craftable": false,
+    "displayName": "Chert Brick"
+  },
+  {
+    "id": "gtceu:small_olivine_dust",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Small Pile of Olivine Dust"
+  },
+  {
+    "id": "create:filter",
+    "count": 1,
+    "craftable": false,
+    "displayName": "List Filter"
+  },
+  {
+    "id": "ae2:engineering_processor",
+    "count": 60,
+    "craftable": true,
+    "displayName": "Engineering Processor"
+  },
+  {
+    "id": "tfc:rock/bricks/claystone",
+    "count": 100,
+    "craftable": false,
+    "displayName": "Claystone Bricks"
+  },
+  {
+    "id": "gtceu:hv_hermetic_casing",
+    "count": 3,
+    "craftable": false,
+    "displayName": "Hermetic Casing III"
+  },
+  {
+    "id": "gtceu:small_copper_dust",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Small Pile of Copper Dust"
+  },
+  {
+    "id": "create:package_frogport",
+    "count": 7,
+    "craftable": false,
+    "displayName": "Package Frogport"
+  },
+  {
+    "id": "gtceu:large_combustion_engine",
+    "count": 1,
+    "craftable": true,
+    "displayName": "Large Combustion Engine"
+  },
+  {
+    "id": "gtceu:fullers_earth_dust",
+    "count": 2452,
+    "craftable": false,
+    "displayName": "Fullers Earth"
+  },
+  {
+    "id": "gtceu:manganese_dust",
+    "count": 5136,
+    "craftable": false,
+    "displayName": "Manganese Dust"
+  },
+  {
+    "id": "tfc:dirt/loam",
+    "count": 663,
+    "craftable": false,
+    "displayName": "Loam Dirt"
+  },
+  {
+    "id": "gtceu:tungsten_steel_ingot",
+    "count": 46,
+    "craftable": false,
+    "displayName": "Tungstensteel Ingot"
+  },
+  {
+    "id": "gtceu:quartzite_dust",
+    "count": 5655,
+    "craftable": false,
+    "displayName": "Quartzite Dust"
+  },
+  {
+    "id": "gtceu:aluminium_large_fluid_pipe",
+    "count": 27,
+    "craftable": false,
+    "displayName": "Large Aluminium Fluid Pipe"
+  },
+  {
+    "id": "gtceu:flawless_coal_gem",
+    "count": 191,
+    "craftable": false,
+    "displayName": "Flawless Coal"
+  },
+  {
+    "id": "gtceu:chromium_dust",
+    "count": 312,
+    "craftable": false,
+    "displayName": "Chromium Dust"
+  },
+  {
+    "id": "gtceu:magnalium_ingot",
+    "count": 73,
+    "craftable": true,
+    "displayName": "Magnalium Ingot"
+  },
+  {
+    "id": "gtceu:red_alloy_plate",
+    "count": 159,
+    "craftable": false,
+    "displayName": "Red Alloy Plate"
+  },
+  {
+    "id": "gtceu:red_alloy_single_cable",
+    "count": 7,
+    "craftable": false,
+    "displayName": "1x Red Alloy Cable"
+  },
+  {
+    "id": "gtceu:cinnabar_dust",
+    "count": 3249,
+    "craftable": false,
+    "displayName": "Cinnabar Dust"
+  },
+  {
+    "id": "tfc:powder/wood_ash",
+    "count": 206,
+    "craftable": false,
+    "displayName": "Wood Ash"
+  },
+  {
+    "id": "ae2:charged_certus_quartz_crystal",
+    "count": 134,
+    "craftable": false,
+    "displayName": "Charged Certus Quartz Crystal"
+  },
+  {
+    "id": "gtceu:coke_oven_brick",
+    "count": 230,
+    "craftable": false,
+    "displayName": "Coke Oven Brick"
+  },
+  {
+    "id": "ae2:sky_stone_block",
+    "count": 7,
+    "craftable": false,
+    "displayName": "Sky Stone"
+  },
+  {
+    "id": "tfc:dirt/sandy_loam",
+    "count": 49,
+    "craftable": false,
+    "displayName": "Sandy Loam Dirt"
+  },
+  {
+    "id": "gtceu:red_alloy_ingot",
+    "count": 738,
+    "craftable": false,
+    "displayName": "Red Alloy Ingot"
+  },
+  {
+    "id": "gtceu:magnesium_dust",
+    "count": 1249,
+    "craftable": true,
+    "displayName": "Magnesium Dust"
+  },
+  {
+    "id": "tfc:rock/smooth/limestone",
+    "count": 3,
+    "craftable": false,
+    "displayName": "Smooth Limestone"
+  },
+  {
+    "id": "gtceu:hp_steam_solid_boiler",
+    "count": 2,
+    "craftable": false,
+    "displayName": "High Pressure Steam Solid Boiler"
+  },
+  {
+    "id": "gtceu:lead_dust",
+    "count": 2758,
+    "craftable": false,
+    "displayName": "Lead Dust"
+  },
+  {
+    "id": "gtceu:cupronickel_quadruple_cable",
+    "count": 1,
+    "craftable": false,
+    "displayName": "4x Cupronickel Cable"
+  },
+  {
+    "id": "gtceu:maintenance_hatch",
+    "count": 1,
+    "craftable": true,
+    "displayName": "Maintenance Hatch"
+  },
+  {
+    "id": "firmalife:rennet",
+    "count": 28,
+    "craftable": false,
+    "displayName": "Rennet"
+  },
+  {
+    "id": "gtceu:bronze_dust",
+    "count": 85,
+    "craftable": false,
+    "displayName": "Bronze Dust"
+  },
+  {
+    "id": "gtceu:black_steel_rod",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Black Steel Rod"
+  },
+  {
+    "id": "gtceu:electrum_double_wire",
+    "count": 4,
+    "craftable": false,
+    "displayName": "2x Electrum Wire"
+  },
+  {
+    "id": "minecraft:spider_eye",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Spider Eye"
+  },
+  {
+    "id": "gtceu:tin_screw",
+    "count": 3,
+    "craftable": false,
+    "displayName": "Tin Screw"
+  },
+  {
+    "id": "gtceu:tiny_biotite_dust",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Tiny Pile of Biotite Dust"
+  },
+  {
+    "id": "gtceu:hot_tungsten_ingot",
+    "count": 2,
+    "craftable": true,
+    "displayName": "Hot Tungsten Ingot"
+  },
+  {
+    "id": "computercraft:computer_advanced",
+    "count": 1,
+    "craftable": true,
+    "displayName": "Advanced Computer"
+  },
+  {
+    "id": "tfg:ev_universal_circuit",
+    "count": 4,
+    "craftable": true,
+    "displayName": "item.tfg.ev_universal_circuit"
+  },
+  {
+    "id": "gtceu:silver_rod",
+    "count": 52,
+    "craftable": false,
+    "displayName": "Silver Rod"
+  },
+  {
+    "id": "gtceu:powellite_dust",
+    "count": 23,
+    "craftable": false,
+    "displayName": "Powellite Dust"
+  },
+  {
+    "id": "tfc:powder/kaolinite",
+    "count": 2485,
+    "craftable": false,
+    "displayName": "Kaolinite Powder"
+  },
+  {
+    "id": "gtceu:wrought_iron_rod",
+    "count": 1,
+    "craftable": true,
+    "displayName": "Wrought Iron Rod"
+  },
+  {
+    "id": "gtceu:flawless_rose_quartz_gem",
+    "count": 52,
+    "craftable": false,
+    "displayName": "Flawless Rose Quartz"
+  },
+  {
+    "id": "gtceu:soda_ash_dust",
+    "count": 77,
+    "craftable": true,
+    "displayName": "Soda Ash Dust"
+  },
+  {
+    "id": "gtceu:steel_drum",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Steel Drum"
+  },
+  {
+    "id": "minecraft:quartz",
+    "count": 467,
+    "craftable": false,
+    "displayName": "Nether Quartz"
+  },
+  {
+    "id": "tfc:rock/loose/claystone",
+    "count": 271,
+    "craftable": false,
+    "displayName": "Loose Claystone Rock"
+  },
+  {
+    "id": "gtceu:tetrahedrite_dust",
+    "count": 3145,
+    "craftable": false,
+    "displayName": "Tetrahedrite Dust"
+  },
+  {
+    "id": "gtceu:salt_dust",
+    "count": 17719,
+    "craftable": false,
+    "displayName": "Salt"
+  },
+  {
+    "id": "gtceu:tiny_pipe_extruder_mold",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Extruder Mold (Tiny Pipe)"
+  },
+  {
+    "id": "gtceu:neodymium_dust",
+    "count": 1265,
+    "craftable": false,
+    "displayName": "Neodymium Dust"
+  },
+  {
+    "id": "ae2:fluid_cell_housing",
+    "count": 10,
+    "craftable": false,
+    "displayName": "ME Fluid Cell Housing"
+  },
+  {
+    "id": "gtceu:tungsten_single_wire",
+    "count": 15,
+    "craftable": true,
+    "displayName": "1x Tungsten Wire"
+  },
+  {
+    "id": "tfc:powder/salt",
+    "count": 448,
+    "craftable": false,
+    "displayName": "Salt"
+  },
+  {
+    "id": "tfg:tungsten_oxide_dust",
+    "count": 1,
+    "craftable": true,
+    "displayName": "material.tfg.tungsten_oxide Dust"
+  },
+  {
+    "id": "gtceu:mpic_chip",
+    "count": 2,
+    "craftable": true,
+    "displayName": "MPIC Chip"
+  },
+  {
+    "id": "gtceu:trona_dust",
+    "count": 4,
+    "craftable": false,
+    "displayName": "Trona Dust"
+  },
+  {
+    "id": "gtceu:talc_dust",
+    "count": 31,
+    "craftable": false,
+    "displayName": "Talc"
+  },
+  {
+    "id": "gtceu:smd_transistor",
+    "count": 10,
+    "craftable": true,
+    "displayName": "SMD Transistor"
+  },
+  {
+    "id": "gtceu:small_diamond_dust",
+    "count": 178,
+    "craftable": false,
+    "displayName": "Small Pile of Diamond Dust"
+  },
+  {
+    "id": "gtceu:thorium_dust",
+    "count": 1049,
+    "craftable": false,
+    "displayName": "Thorium Dust"
+  },
+  {
+    "id": "ae2:quartz_glass",
+    "count": 232,
+    "craftable": false,
+    "displayName": "Quartz Glass"
+  },
+  {
+    "id": "gtceu:diamond_lens",
+    "count": 2,
+    "craftable": false,
+    "displayName": "Diamond Lens"
+  },
+  {
+    "id": "gtceu:micro_processor_assembly",
+    "count": 1,
+    "craftable": true,
+    "displayName": "Microprocessor Assembly"
+  },
+  {
+    "id": "gtceu:opal_dust",
+    "count": 318,
+    "craftable": false,
+    "displayName": "Opal Dust"
+  },
+  {
+    "id": "gtceu:nickel_ingot",
+    "count": 3370,
+    "craftable": false,
+    "displayName": "Nickel Ingot"
+  },
+  {
+    "id": "gtceu:nickel_dust",
+    "count": 2528,
+    "craftable": false,
+    "displayName": "Nickel Dust"
+  },
+  {
+    "id": "gtceu:small_spessartine_dust",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Small Pile of Spessartine Dust"
+  },
+  {
+    "id": "gtceu:niobium_ingot",
+    "count": 64,
+    "craftable": false,
+    "displayName": "Niobium Ingot"
+  },
+  {
+    "id": "ae2:fluix_smart_dense_cable",
+    "count": 60,
+    "craftable": true,
+    "displayName": "Fluix ME Dense Smart Cable"
+  },
+  {
+    "id": "gtceu:stainless_steel_dust",
+    "count": 6,
+    "craftable": true,
+    "displayName": "Stainless Steel Dust"
+  },
+  {
+    "id": "gtceu:nether_quartz_rod",
+    "count": 208,
+    "craftable": false,
+    "displayName": "Nether Quartz Rod"
+  },
+  {
+    "id": "gtceu:flawless_sodalite_gem",
+    "count": 324,
+    "craftable": false,
+    "displayName": "Flawless Sodalite"
+  },
+  {
+    "id": "gtceu:fine_lead_wire",
+    "count": 16,
+    "craftable": false,
+    "displayName": "Fine Lead Wire"
+  },
+  {
+    "id": "create:cardboard",
+    "count": 63,
+    "craftable": false,
+    "displayName": "Cardboard"
+  },
+  {
+    "id": "gtceu:double_tungsten_steel_plate",
+    "count": 15,
+    "craftable": true,
+    "displayName": "Double Tungstensteel Plate"
+  },
+  {
+    "id": "gtceu:tin_ingot",
+    "count": 2918,
+    "craftable": false,
+    "displayName": "Tin Ingot"
+  },
+  {
+    "id": "gtceu:magnesia_dust",
+    "count": 217,
+    "craftable": false,
+    "displayName": "Magnesia Dust"
+  },
+  {
+    "id": "gtceu:tungstate_dust",
+    "count": 1131,
+    "craftable": false,
+    "displayName": "Tungstate Dust"
+  },
+  {
+    "id": "gtceu:yellow_limonite_dust",
+    "count": 37,
+    "craftable": false,
+    "displayName": "Limonite Dust"
+  },
+  {
+    "id": "gtceu:tungsten_steel_rod",
+    "count": 19,
+    "craftable": true,
+    "displayName": "Tungstensteel Rod"
+  },
+  {
+    "id": "gtceu:basaltic_mineral_sand_dust",
+    "count": 18,
+    "craftable": false,
+    "displayName": "Basaltic Mineral Sand"
+  },
+  {
+    "id": "gtceu:ring_extruder_mold",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Extruder Mold (Ring)"
+  },
+  {
+    "id": "ae2:flawed_budding_quartz",
+    "count": 13,
+    "craftable": false,
+    "displayName": "Flawed Budding Certus Quartz"
+  },
+  {
+    "id": "beneath:cursed_hide",
+    "count": 5,
+    "craftable": false,
+    "displayName": "Cursed Hide"
+  },
+  {
+    "id": "gtceu:mv_energy_input_hatch",
+    "count": 1,
+    "craftable": false,
+    "displayName": "\u00a7bMV Energy Hatch"
+  },
+  {
+    "id": "gtceu:titanium_large_boiler",
+    "count": 1,
+    "craftable": true,
+    "displayName": "Large Titanium Boiler"
+  },
+  {
+    "id": "gtceu:aluminium_dust",
+    "count": 14359,
+    "craftable": false,
+    "displayName": "Aluminium Dust"
+  },
+  {
+    "id": "minecraft:glass",
+    "count": 3896,
+    "craftable": false,
+    "displayName": "Glass"
+  },
+  {
+    "id": "gtceu:saltpeter_dust",
+    "count": 5451,
+    "craftable": false,
+    "displayName": "Saltpeter Dust"
+  },
+  {
+    "id": "gtceu:aluminium_single_wire",
+    "count": 8,
+    "craftable": true,
+    "displayName": "1x Aluminium Wire"
+  },
+  {
+    "id": "gtceu:tantalite_dust",
+    "count": 1925,
+    "craftable": false,
+    "displayName": "Tantalite Dust"
+  },
+  {
+    "id": "gtceu:small_rose_quartz_dust",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Small Pile of Rose Quartz Dust"
+  },
+  {
+    "id": "gtceu:silicon_plate",
+    "count": 339,
+    "craftable": false,
+    "displayName": "Silicon Plate"
+  },
+  {
+    "id": "gtceu:silver_double_wire",
+    "count": 32,
+    "craftable": false,
+    "displayName": "2x Silver Wire"
+  },
+  {
+    "id": "create:brass_funnel",
+    "count": 4,
+    "craftable": false,
+    "displayName": "Brass Funnel"
+  },
+  {
+    "id": "gtceu:electrum_dust",
+    "count": 961,
+    "craftable": false,
+    "displayName": "Electrum Dust"
+  },
+  {
+    "id": "gtceu:copper_rod",
+    "count": 304,
+    "craftable": false,
+    "displayName": "Copper Rod"
+  },
+  {
+    "id": "gtceu:mpic_wafer",
+    "count": 53,
+    "craftable": false,
+    "displayName": "MPIC Wafer"
+  },
+  {
+    "id": "tfc:rock/smooth/gneiss",
+    "count": 8,
+    "craftable": false,
+    "displayName": "Smooth Gneiss"
+  },
+  {
+    "id": "gtceu:tin_bolt",
+    "count": 76,
+    "craftable": false,
+    "displayName": "Tin Bolt"
+  },
+  {
+    "id": "minecraft:redstone_torch",
+    "count": 4,
+    "craftable": false,
+    "displayName": "Redstone Torch"
+  },
+  {
+    "id": "tfc:jute_fiber",
+    "count": 30,
+    "craftable": false,
+    "displayName": "Jute Fiber"
+  },
+  {
+    "id": "gtceu:ilc_wafer",
+    "count": 64,
+    "craftable": false,
+    "displayName": "ILC Wafer"
+  },
+  {
+    "id": "tfc:rock/bricks/rhyolite",
+    "count": 36,
+    "craftable": false,
+    "displayName": "Rhyolite Bricks"
+  },
+  {
+    "id": "tfg:phantom_silk",
+    "count": 5,
+    "craftable": false,
+    "displayName": "item.tfg.phantom_silk"
+  },
+  {
+    "id": "gtceu:silver_ring",
+    "count": 8,
+    "craftable": false,
+    "displayName": "Silver Ring"
+  },
+  {
+    "id": "gtceu:small_copper_spring",
+    "count": 19,
+    "craftable": false,
+    "displayName": "Small Copper Spring"
+  },
+  {
+    "id": "gtceu:small_ash_dust",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Small Pile of Ashes"
+  },
+  {
+    "id": "gtceu:carbon_fiber_mesh",
+    "count": 47,
+    "craftable": false,
+    "displayName": "Carbon Fiber Mesh"
+  },
+  {
+    "id": "gtceu:tantalum_foil",
+    "count": 30,
+    "craftable": false,
+    "displayName": "Tantalum Foil"
+  },
+  {
+    "id": "gtceu:ilmenite_dust",
+    "count": 3933,
+    "craftable": false,
+    "displayName": "Ilmenite Dust"
+  },
+  {
+    "id": "gtceu:treated_wood_rod",
+    "count": 14,
+    "craftable": false,
+    "displayName": "Treated Wood Stick"
+  },
+  {
+    "id": "gtceu:small_amethyst_dust",
+    "count": 3,
+    "craftable": false,
+    "displayName": "Small Pile of Amethyst Dust"
+  },
+  {
+    "id": "gtceu:quartzite_gem",
+    "count": 1343,
+    "craftable": false,
+    "displayName": "Quartzite"
+  },
+  {
+    "id": "gtceu:purified_galena_ore",
+    "count": 60,
+    "craftable": false,
+    "displayName": "Purified Galena Ore"
+  },
+  {
+    "id": "gtceu:desh_dust",
+    "count": 35,
+    "craftable": false,
+    "displayName": "material.gtceu.desh Dust"
+  },
+  {
+    "id": "tfc:wood/log/kapok",
+    "count": 16,
+    "craftable": false,
+    "displayName": "Kapok Log"
+  },
+  {
+    "id": "gtceu:nether_quartz_dust",
+    "count": 3194,
+    "craftable": false,
+    "displayName": "Nether Quartz Dust"
+  },
+  {
+    "id": "gtceu:tungstic_acid_dust",
+    "count": 4,
+    "craftable": true,
+    "displayName": "Tungstic Acid Dust"
+  },
+  {
+    "id": "gtceu:red_alloy_bolt",
+    "count": 34,
+    "craftable": false,
+    "displayName": "Red Alloy Bolt"
+  },
+  {
+    "id": "minecraft:glowstone_dust",
+    "count": 561,
+    "craftable": false,
+    "displayName": "Glowstone Dust"
+  },
+  {
+    "id": "minecraft:sugar",
+    "count": 52,
+    "craftable": false,
+    "displayName": "Sugar"
+  },
+  {
+    "id": "gtceu:cobalt_ingot",
+    "count": 5,
+    "craftable": false,
+    "displayName": "Cobalt Ingot"
+  },
+  {
+    "id": "minecraft:bone",
+    "count": 90,
+    "craftable": false,
+    "displayName": "Bone"
+  },
+  {
+    "id": "gtceu:black_steel_dust",
+    "count": 27,
+    "craftable": false,
+    "displayName": "Black Steel Dust"
+  },
+  {
+    "id": "gtceu:double_aluminium_plate",
+    "count": 20,
+    "craftable": false,
+    "displayName": "Double Aluminium Plate"
+  },
+  {
+    "id": "gtceu:titanium_ingot",
+    "count": 45,
+    "craftable": true,
+    "displayName": "Titanium Ingot"
+  },
+  {
+    "id": "gtceu:cooperite_dust",
+    "count": 384,
+    "craftable": false,
+    "displayName": "Sheldonite Dust"
+  },
+  {
+    "id": "gtceu:small_gallium_arsenide_dust",
+    "count": 49,
+    "craftable": false,
+    "displayName": "Small Pile of Gallium Arsenide Dust"
+  },
+  {
+    "id": "gtceu:silicon_ingot",
+    "count": 466,
+    "craftable": false,
+    "displayName": "Silicon Ingot"
+  },
+  {
+    "id": "gtceu:lead_ingot",
+    "count": 2026,
+    "craftable": false,
+    "displayName": "Lead Ingot"
+  },
+  {
+    "id": "tfc:medium_raw_hide",
+    "count": 9,
+    "craftable": false,
+    "displayName": "Medium Raw Hide"
+  },
+  {
+    "id": "gtceu:tungsten_single_cable",
+    "count": 2,
+    "craftable": true,
+    "displayName": "1x Tungsten Cable"
+  },
+  {
+    "id": "minecraft:name_tag",
+    "count": 5,
+    "craftable": false,
+    "displayName": "Name Tag"
+  },
+  {
+    "id": "gtceu:bastnasite_dust",
+    "count": 123,
+    "craftable": false,
+    "displayName": "Bastnasite Dust"
+  },
+  {
+    "id": "gtceu:cadmium_dust",
+    "count": 2757,
+    "craftable": false,
+    "displayName": "Cadmium Dust"
+  },
+  {
+    "id": "gtceu:flawless_nether_quartz_gem",
+    "count": 230,
+    "craftable": false,
+    "displayName": "Flawless Nether Quartz"
+  },
+  {
+    "id": "gtceu:stone_dust",
+    "count": 270083,
+    "craftable": false,
+    "displayName": "Stone Dust"
+  },
+  {
+    "id": "gtceu:iv_electric_motor",
+    "count": 1,
+    "craftable": true,
+    "displayName": "IV Electric Motor"
+  },
+  {
+    "id": "gtceu:samarium_dust",
+    "count": 483,
+    "craftable": false,
+    "displayName": "Samarium Dust"
+  },
+  {
+    "id": "gtceu:exquisite_ruby_gem",
+    "count": 86,
+    "craftable": false,
+    "displayName": "Exquisite Ruby"
+  },
+  {
+    "id": "gtceu:cupronickel_octal_cable",
+    "count": 1,
+    "craftable": false,
+    "displayName": "8x Cupronickel Cable"
+  },
+  {
+    "id": "gtceu:fine_tantalum_wire",
+    "count": 60,
+    "craftable": false,
+    "displayName": "Fine Tantalum Wire"
+  },
+  {
+    "id": "afc:wood/log/hevea",
+    "count": 2604,
+    "craftable": false,
+    "displayName": "Hevea Log"
+  },
+  {
+    "id": "gtceu:chipped_nether_quartz_gem",
+    "count": 763,
+    "craftable": false,
+    "displayName": "Chipped Nether Quartz"
+  },
+  {
+    "id": "gtceu:computer_monitor_cover",
+    "count": 3,
+    "craftable": true,
+    "displayName": "Computer Monitor"
+  },
+  {
+    "id": "tfc:rock/smooth/shale",
+    "count": 35,
+    "craftable": false,
+    "displayName": "Smooth Shale"
+  },
+  {
+    "id": "create:fluid_tank",
+    "count": 32,
+    "craftable": false,
+    "displayName": "Fluid Tank"
+  },
+  {
+    "id": "tfc:metal/ingot/blue_steel",
+    "count": 28,
+    "craftable": false,
+    "displayName": "Blue Steel Ingot"
+  },
+  {
+    "id": "gtceu:small_realgar_dust",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Small Pile of Realgar Dust"
+  },
+  {
+    "id": "gtceu:scheelite_dust",
+    "count": 1136,
+    "craftable": false,
+    "displayName": "Scheelite Dust"
+  },
+  {
+    "id": "tfc:rock/cobble/chalk",
+    "count": 8,
+    "craftable": false,
+    "displayName": "Chalk Cobble"
+  },
+  {
+    "id": "gtceu:implosion_compressor",
+    "count": 1,
+    "craftable": false,
+    "displayName": "Implosion Compressor"
+  },
+  {
+    "id": "gtceu:chipped_certus_quartz_gem",
+    "count": 1196,
+    "craftable": false,
+    "displayName": "Chipped Certus Quartz"
+  },
+  {
+    "id": "gtceu:molybdenum_dust",
+    "count": 838,
+    "craftable": false,
+    "displayName": "Molybdenum Dust"
+  },
+  {
+    "id": "tfc:rock/smooth/gabbro",
+    "count": 22,
+    "craftable": false,
+    "displayName": "Smooth Gabbro"
+  },
+  {
+    "id": "tfc:rock/bricks/gabbro",
+    "count": 36,
+    "craftable": false,
+    "displayName": "Gabbro Bricks"
+  },
+  {
+    "id": "gtceu:magnesium_diboride_dust",
+    "count": 82,
+    "craftable": true,
+    "displayName": "Magnesium Diboride Dust"
+  },
+  {
+    "id": "gtceu:electric_blast_furnace",
+    "count": 1,
+    "craftable": true,
+    "displayName": "Electric Blast Furnace"
+  },
+  {
+    "id": "gtceu:tin_single_cable",
+    "count": 12,
+    "craftable": false,
+    "displayName": "1x Tin Cable"
+  },
+  {
+    "id": "gtceu:borosilicate_glass_ingot",
+    "count": 144,
+    "craftable": false,
+    "displayName": "Borosilicate Glass Bar"
+  },
+  {
+    "id": "gtceu:brass_bolt",
+    "count": 8,
+    "craftable": false,
+    "displayName": "Brass Bolt"
+  },
+  {
+    "id": "gtceu:galena_dust",
+    "count": 1653,
+    "craftable": false,
+    "displayName": "Galena Dust"
+  },
+  {
+    "id": "gtceu:white_lamp",
+    "count": 1,
+    "craftable": false,
+    "displayName": "White Lamp"
+  },
+  {
+    "id": "gtceu:white_lamp",
+    "count": 12,
+    "craftable": false,
+    "displayName": "White Lamp"
+  },
+  {
+    "id": "gtceu:white_lamp",
+    "count": 10,
+    "craftable": false,
+    "displayName": "White Lamp"
+  },
+  {
+    "id": "gtceu:sodium_dust",
+    "count": 3445,
+    "craftable": true,
+    "displayName": "Sodium Dust"
+  },
+  {
+    "id": "gtceu:tungsten_steel_plate",
+    "count": 8,
+    "craftable": true,
+    "displayName": "Tungstensteel Plate"
+  },
+  {
+    "id": "gtceu:hot_titanium_ingot",
+    "count": 30,
+    "craftable": true,
+    "displayName": "Hot Titanium Ingot"
+  },
+  {
+    "id": "gtceu:lpic_chip",
+    "count": 2,
+    "craftable": true,
+    "displayName": "LPIC Chip"
+  },
+  {
+    "id": "gtceu:electrum_ingot",
+    "count": 396,
+    "craftable": false,
+    "displayName": "Electrum Ingot"
+  },
+  {
+    "id": "gtceu:lv_output_bus",
+    "count": 1,
+    "craftable": false,
+    "displayName": "\u00a77LV Output Bus"
+  },
+  {
+    "id": "gtceu:ev_energy_output_hatch",
+    "count": 1,
+    "craftable": true,
+    "displayName": "\u00a75EV Dynamo Hatch"
+  },
+  {
+    "id": "framedblocks:framed_cube",
+    "count": 32,
+    "craftable": false,
+    "displayName": "Framed Cube"
+  },
+  {
+    "id": "ae2:ender_dust",
+    "count": 591,
+    "craftable": false,
+    "displayName": "Ender Dust"
+  },
+  {
+    "id": "tfc:rock/bricks/chert",
+    "count": 32,
+    "craftable": false,
+    "displayName": "Chert Bricks"
+  },
+  {
+    "id": "gtceu:carbon_dust",
+    "count": 4561,
+    "craftable": false,
+    "displayName": "Carbon Dust"
+  },
+  {
+    "id": "minecraft:white_wool",
+    "count": 2,
+    "craftable": false,
+    "displayName": "White Wool"
+  },
+  {
+    "id": "afc:wood/planks/hevea_workbench",
+    "count": 31,
+    "craftable": false,
+    "displayName": "Hevea Workbench"
+  },
+  {
+    "id": "gtceu:clay_dust",
+    "count": 252,
+    "craftable": false,
+    "displayName": "Clay Dust"
+  },
+  {
+    "id": "minecraft:light_weighted_pressure_plate",
+    "count": 30,
+    "craftable": false,
+    "displayName": "Light Weighted Pressure Plate"
+  },
+  {
+    "id": "gtceu:fluid_cell",
+    "count": 28,
+    "craftable": false,
+    "displayName": "Empty Fluid Cell"
+  },
+  {
+    "id": "gtceu:exquisite_emerald_gem",
+    "count": 38,
+    "craftable": false,
+    "displayName": "Exquisite Emerald"
+  },
+  {
+    "id": "gtceu:titanium_bolt",
+    "count": 3,
+    "craftable": false,
+    "displayName": "Titanium Bolt"
+  },
+  {
+    "id": "gtceu:flawless_grossular_gem",
+    "count": 866,
+    "craftable": false,
+    "displayName": "Flawless Grossular"
+  },
+  {
+    "id": "create:brass_sheet",
+    "count": 6,
+    "craftable": false,
+    "displayName": "Brass Sheet"
+  },
+  {
+    "id": "gtceu:nichrome_dust",
+    "count": 149,
+    "craftable": false,
+    "displayName": "Nichrome Dust"
+  },
+  {
+    "id": "tfc:rock/bricks/gneiss",
+    "count": 15,
+    "craftable": false,
+    "displayName": "Gneiss Bricks"
   }
 ]
