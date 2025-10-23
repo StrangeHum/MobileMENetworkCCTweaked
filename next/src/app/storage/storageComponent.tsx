@@ -13,13 +13,10 @@ type Props = {
 
 export default function StorageComponent({ storage }: Props) {
   return (
-    <div>
-      <h1>Инвентарь</h1>
-      <ul>
-        {storage.map((item, index) => (
-          <ItemComponent item={item} key={index} />
-        ))}
-      </ul>
+    <div className="grid grid-cols-9 gap-2 p-3 overflow-y-auto border">
+      {storage.map((item, index) => (
+        <ItemComponent item={item} key={index} />
+      ))}
     </div>
   );
 }

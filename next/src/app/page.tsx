@@ -1,7 +1,6 @@
 "use client";
 
 import { useRef, useState } from "react";
-import styles from "./page.module.css";
 import SearchBarComponent from "./storage/searchBar";
 import StorageComponent from "./storage/storageComponent";
 import { useUpdateStoreage } from "./storage/useStorageSystem";
@@ -16,13 +15,17 @@ export default function Home() {
   }
 
   return (
-    <div className={styles.page}>
-      <SearchBarComponent
-        storage={storage}
-        setFilteredStorage={setFilteredStorage}
-      />
-      <StorageComponent storage={filteredStorage ?? storage} />
-      {filteredStorage ? "filteredStorage пустой" : "filteredStorage не пустой"}
+    <div className="font-sans flex justify-center">
+      <main className="">
+        <SearchBarComponent
+          storage={storage}
+          setFilteredStorage={setFilteredStorage}
+        />
+        <StorageComponent storage={filteredStorage ?? storage} />
+        {filteredStorage
+          ? "filteredStorage пустой"
+          : "filteredStorage не пустой"}
+      </main>
     </div>
   );
 }

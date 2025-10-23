@@ -43,6 +43,21 @@ class Payload(BaseModel):
         return self.model_dump_json()
 
 
+class NewItem(BaseModel):
+    id: str
+    count: int
+    craftable: bool = False
+    displayName: str
+
+
+class NevPayload(BaseModel):
+    items: List[NewItem]
+
+    def to_json_str(self) -> str:
+        """Возвращает готовую JSON-строку."""
+        return self.model_dump_json()
+
+
 def ReadSavedData():
     with open("items/testData.json", "r") as f:
         data = json.load(f)
@@ -88,5 +103,12 @@ async def craftItem(itemID):
 
 @app.get("/update")
 async def update():
+    print("send")
+
+    return storage.get_items()
+
+
+@app.get("/sendfull")
+async def sendfull():
 
     return storage.get_items()
