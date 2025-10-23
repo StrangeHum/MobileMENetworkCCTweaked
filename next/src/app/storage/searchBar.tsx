@@ -36,14 +36,14 @@ export default function SearchBarComponent({
   }, [searchText, storage]);
 
   return (
-    <div>
+    <div className="flex justify-center">
       <input
+        className="bg-gray-500 rounded-4xl text-center"
         type="text"
         onChange={(text) => {
           setSearchText(text.target.value);
         }}
       />
-      {searchText}
     </div>
   );
 }
