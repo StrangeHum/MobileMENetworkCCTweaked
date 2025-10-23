@@ -1,6 +1,9 @@
 #custom
 public/textures_out
+<<<<<<< HEAD
 public/icon-exports-x32
+=======
+>>>>>>> 383d35f74a705cda3920ac7e4b0ef8121eec32de
 
 
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
