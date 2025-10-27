@@ -1,5 +1,4 @@
-// export const url = "http://192.168.0.106:8081";
-export const url = "http://192.168.0.105:8081";
+export const url = "http://localhost:8081";
 // export const apis = {
 //   update: { url: "http://192.168.0.105:8081/update", method: "GET" },
 // };

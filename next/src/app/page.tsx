@@ -1,13 +1,13 @@
 "use client";
 
-import { useRef, useState } from "react";
-import SearchBarComponent from "./storage/searchBar";
-import StorageComponent from "./storage/storageComponent";
-import { useUpdateStoreage } from "./storage/useStorageSystem";
-import { Store } from "./storage/types";
+import { useState } from "react";
+import SearchBarComponent from "@/components/searchBarComponent";
+import StorageComponent from "@/components/storageComponent";
+import { useUpdateStoreage } from "@/lib/useStorageSystem";
+import { Store } from "@/types/storage";
 
 export default function Home() {
-  const storage = useUpdateStoreage();
+  const [storage, error] = useUpdateStoreage();
   const [filteredStorage, setFilteredStorage] = useState<Store>();
 
   if (storage === undefined) {
@@ -16,15 +16,18 @@ export default function Home() {
 
   return (
     <div className="font-sans flex justify-center">
-      <main className="">
+      <main className="container">
+        <div className="flex">
+          {filteredStorage
+            ? "filteredStorage пустой"
+            : "filteredStorage не пустой"}
+          {error}
+        </div>
         <SearchBarComponent
           storage={storage}
           setFilteredStorage={setFilteredStorage}
         />
         <StorageComponent storage={filteredStorage ?? storage} />
-        {filteredStorage
-          ? "filteredStorage пустой"
-          : "filteredStorage не пустой"}
       </main>
     </div>
   );
